@@ -1522,7 +1522,7 @@ There was an issue subscribing, try again.
 MAINTENANCE BY
 </p>
 <p class='m-footer__guarantee-subtext'>
-SEO ANTEK-ANTEK ASING
+SEO JAGOANNEON
 </p>
 </div>
 <p class='m-footer__guarantee-link'>
