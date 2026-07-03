@@ -32,7 +32,7 @@
 	<link rel="dns-prefetch" href="https://ih1.redbubble.net">
 	<title data-next-head="">BotakHoki – Hiburan Seru, Pengalaman Tak Terlupakan</title>
 	<meta name="robots" content="index,follow">
-	<link rel="amphtml" href="https://botakhoki-7vb.pages.dev/botaksabar.com/amv">
+	<link rel="amphtml" href="https://botakhoki-7vb.pages.dev/botaksabar.com/amp">
 	<meta name="description" content="BotakHoki hadir sebagai brand yang mengutamakan pengalaman terbaik bagi para penggunanya. Dengan tampilan modern, layanan responsif, dan komitmen terhadap kenyamanan, BotakHoki menjadi pilihan tepat untuk menikmati hiburan digital yang praktis, aman, dan menyenangkan.">
    <link rel="alternate" href="https://botakhoki-7vb.pages.dev/botaksabar.com/amv"> 
    <link rel="alternate" href="https://botakhoki-7vb.pages.dev/botaksabar.com/amv" hreflang="id">
