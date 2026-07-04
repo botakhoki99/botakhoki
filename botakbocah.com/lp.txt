@@ -34,15 +34,15 @@
 	<meta name="robots" content="index,follow">
 	<link rel="amphtml" href="https://botakhoki-7vb.pages.dev/botakbocah.com/amp">
 	<meta name="description" content="Temukan pengalaman hiburan digital yang seru bersama BotakHoki. Dengan layanan cepat dan antarmuka yang mudah digunakan, BotakHoki siap memberikan pengalaman terbaik bagi setiap pengguna.">
-   <link rel="alternate" href="https://botakhoki-cloud3.firebaseapp.com/"> 
-   <link rel="alternate" href="https://botakhoki-cloud3.firebaseapp.com/" hreflang="id">
-   <link rel="alternate" href="https://botakhoki-cloud3.firebaseapp.com/" hreflang="en">
-   <link rel="alternate" href="https://botakhoki-cloud3.firebaseapp.com/" hreflang="en">
-   <link rel="alternate" href="https://botakhoki-cloud3.firebaseapp.com/" hreflang="x-default">
-	<link rel="alternate" hreflang="id-ID" href="https://botakhoki-cloud3.firebaseapp.com/">
-	<link rel="alternate" hreflang="en-US" href="https://botakhoki-cloud3.firebaseapp.com/">
-	<link rel="alternate" hreflang="en-SG" href="https://botakhoki-cloud3.firebaseapp.com/">
-	<link rel="alternate" hreflang="x-default" href="https://botakbocah.com/">
+   <link rel="alternate" href="https://botakhoki-7vb.pages.dev/botakbocah.com/amp"> 
+   <link rel="alternate" href="https://botakhoki-7vb.pages.dev/botakbocah.com/amp" hreflang="id">
+   <link rel="alternate" href="https://botakhoki-7vb.pages.dev/botakbocah.com/amp" hreflang="en">
+   <link rel="alternate" href="https://botakhoki-7vb.pages.dev/botakbocah.com/amp" hreflang="en">
+   <link rel="alternate" href="https://botakhoki-7vb.pages.dev/botakbocah.com/amp" hreflang="x-default">
+	<link rel="alternate" hreflang="id-ID" href="https://botakhoki-7vb.pages.dev/botakbocah.com/amp">
+	<link rel="alternate" hreflang="en-US" href="https://botakhoki-7vb.pages.dev/botakbocah.com/amp">
+	<link rel="alternate" hreflang="en-SG" href="https://botakhoki-7vb.pages.dev/botakbocah.com/amp">
+	<link rel="alternate" hreflang="x-default" href="https://botakhoki-7vb.pages.dev/botakbocah.com/amp">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@redbubble">
 	<meta property="og:title" content="BotakHoki – Hiburan Digital Cepat, Praktis, dan Terpercaya">
