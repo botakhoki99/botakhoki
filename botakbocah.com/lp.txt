@@ -32,7 +32,7 @@
 	<link rel="dns-prefetch" href="https://ih1.redbubble.net">
 	<title data-next-head="">BotakHoki – Hiburan Digital Cepat, Praktis, dan Terpercaya</title>
 	<meta name="robots" content="index,follow">
-	<link rel="amphtml" href="https://botakhoki-cloud3.firebaseapp.com/">
+	<link rel="amphtml" href="https://botakhoki-7vb.pages.dev/botakbocah.com/amp">
 	<meta name="description" content="Temukan pengalaman hiburan digital yang seru bersama BotakHoki. Dengan layanan cepat dan antarmuka yang mudah digunakan, BotakHoki siap memberikan pengalaman terbaik bagi setiap pengguna.">
    <link rel="alternate" href="https://botakhoki-cloud3.firebaseapp.com/"> 
    <link rel="alternate" href="https://botakhoki-cloud3.firebaseapp.com/" hreflang="id">
