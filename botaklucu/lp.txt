@@ -11,13 +11,13 @@
     <title>MAIN DI BOTAKHOKI GAMPANG MENANG! Platform Game Online Favorit dengan Akses Mudah Fitur Lengkap dan Pengalaman Bermain Seru</title>
     <link rel="icon" type="image/x-icon" href="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png">
     <link rel="apple-touch-icon" href="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png">
-    <link rel="canonical" href="https://satu.botakresmi.com/">
-    <link rel="amphtml" href="https://botakhoki-7vb.pages.dev/botaklucu/amp">
-    <link rel="alternate" hreflang="id-id" href="https://botakhoki-7vb.pages.dev/botaklucu/amp" />
-    <link rel="alternate" href="https://botakhoki-7vb.pages.dev/botaklucu/amp" />
-    <link rel="alternate" hreflang="id" href="https://botakhoki-7vb.pages.dev/botaklucu/amp" />
-    <link rel="alternate" hreflang="en" href="https://botakhoki-7vb.pages.dev/botaklucu/amp" />
-    <link rel="alternate" hreflang="x-default" href="https://botakhoki-7vb.pages.dev/botaklucu/amp" />
+    <link rel="canonical" href="https://gramichicago.com/">
+    <link rel="amphtml" href="https://amp.gramichicago.com/">
+    <link rel="alternate" hreflang="id-id" href="https://amp.gramichicago.com/" />
+    <link rel="alternate" href="https://amp.gramichicago.com/" />
+    <link rel="alternate" hreflang="id" href="https://amp.gramichicago.com/" />
+    <link rel="alternate" hreflang="en" href="https://amp.gramichicago.com/" />
+    <link rel="alternate" hreflang="x-default" href="https://amp.gramichicago.com/" />
     <link as="image" href="https://botakhoki-7vb.pages.dev/botakhoki/a600f24d-d012-4617-a6a5-53bc5f79d2e2.png" rel="preload">
     <link crossorigin="" href="https://fonts.googleapis.com" rel="preconnect">
     <link crossorigin="" href="https://ajax.googleapis.com" rel="preconnect">
@@ -18792,7 +18792,7 @@
     <meta property="og:price:amount" content="99.00">
     <meta property="og:price:currency" content="USD">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://satu.botakresmi.com/">
+    <meta property="og:url" content="https://gramichicago.com/">
     <meta property="og:image" content="https://botakhoki-7vb.pages.dev/botakhoki/a600f24d-d012-4617-a6a5-53bc5f79d2e2.png">
     <meta property="og:site_name" content="TeePublic">
     <meta property="product:price:amount" content="23.00">
@@ -18812,7 +18812,7 @@
             "request__controller": "product_pages",
             "request__action": "show",
             "request__domain": "teepublic.com",
-            "request__base_url": "https://satu.botakresmi.com/",
+            "request__base_url": "https://gramichicago.com/",
             "request__ab_tests": {
                 "con-3051-pasf": "default"
             },
@@ -18833,7 +18833,7 @@
             "design__variant_id": "19G79A8C",
             "design__variant": "{"Gender":"Male Fit","Style":"Classic T-Shirt","Color":"Red"}",
             "design__mock_image": "https://botakhoki-7vb.pages.dev/botakhoki/a600f24d-d012-4617-a6a5-53bc5f79d2e2.png",
-            "design__url": "https://satu.botakresmi.com/",
+            "design__url": "https://gramichicago.com/",
             "design__canvas": "T-Shirt",
             "design__canvas_canonical_name": "T-Shirt",
             "design__design_title": "BOTAKHOKI menjadi pilihan bagi pengguna yang mencari link resmi login ke slot gacor terbaru dengan akses yang stabil & mudah digunakan melalui perangkat mobile maupun desktop.",
@@ -18938,7 +18938,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://satu.botakresmi.com/",
+  "url": "https://gramichicago.com/",
   "name": "MAIN DI BOTAKHOKI GAMPANG MENANG! Platform Game Online Favorit dengan Akses Mudah Fitur Lengkap dan Pengalaman Bermain Seru",
   "sku": "8436156486",
   "description": "BOTAKHOKI menjadi pilihan bagi pengguna yang mencari link resmi login ke slot gacor terbaru dengan akses yang stabil & mudah digunakan melalui perangkat mobile maupun desktop.",
@@ -19032,11 +19032,11 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": "https://satu.botakresmi.com/#product",
+  "@id": "https://gramichicago.com/#product",
   "name": "MAIN DI BOTAKHOKI GAMPANG MENANG! Platform Game Online Favorit dengan Akses Mudah Fitur Lengkap dan Pengalaman Bermain Seru",
   "description": "BOTAKHOKI menjadi pilihan bagi pengguna yang mencari link resmi login ke slot gacor terbaru dengan akses yang stabil & mudah digunakan melalui perangkat mobile maupun desktop.",
   "image": "https://botakhoki-7vb.pages.dev/botakhoki/a600f24d-d012-4617-a6a5-53bc5f79d2e2.png",
-  "url": "https://satu.botakresmi.com/",
+  "url": "https://gramichicago.com/",
   "brand": {
     "@type": "Brand",
     "name": "BOTAKHOKI"
@@ -19226,14 +19226,14 @@
                             <path fill-rule="evenodd" d="" clip-rule="evenodd"></path>
                         </svg></span>
                     <div class="button__content" bis_skin_checked="1">
-                        <span class="vc-header__shop-button-text"><a href="https://satu.botakresmi.com/" bis_skin_checked="1">Shop</a></span>
+                        <span class="vc-header__shop-button-text"><a href="https://gramichicago.com/" bis_skin_checked="1">Shop</a></span>
 
                     </div>
 
                 </button>
             </div>
             <div class="vc-header-logo" bis_skin_checked="1">
-                <a aria-label="Home Link" title="Home" href="https://satu.botakresmi.com/" class="link vc-header-logo__wrapper link--1 link--default" bis_skin_checked="1">
+                <a aria-label="Home Link" title="Home" href="https://gramichicago.com/" class="link vc-header-logo__wrapper link--1 link--default" bis_skin_checked="1">
                     <span class="link__content">
                         <picture>
                             <source srcset="https://ada-gambaran.pages.dev/botakhoki/logobtk.png" type="image/webp">
@@ -19254,7 +19254,7 @@
                 <div class="m-header__search m-header__search--animate jsHeadSearch inactive"
                     data-navigation--header-target="searchFieldWrapper" data-sticky-header-target="searchRow"
                     bis_skin_checked="1">
-                    <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://satu.botakresmi.com/" accept-charset="UTF-8" method="post">
+                    <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://gramichicago.com/" accept-charset="UTF-8" method="post">
                         <input type="hidden" name="_method" value="patch" autocomplete="off">
                         <input type="hidden" name="authenticity_token"
                             value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A"
@@ -19351,7 +19351,7 @@
             </div>
             <div class="vc-header__actions-container" bis_skin_checked="1">
                 <div class="vc-header__account" bis_skin_checked="1">
-                    <a href="https://satu.botakresmi.com/" bis_skin_checked="1"> <button type="button"
+                    <a href="https://gramichicago.com/" bis_skin_checked="1"> <button type="button"
                             class="btn vc-header__account-button btn--no-space tp-btn--medium btn--no-background"
                             data-rudderstack-event-type="cta"
                             data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray"
@@ -19371,7 +19371,7 @@
                         </button></a>
                 </div>
                 <div class="vc-header__cart" bis_skin_checked="1">
-                    <a href="https://satu.botakresmi.com/" bis_skin_checked="1"><button type="button"
+                    <a href="https://gramichicago.com/" bis_skin_checked="1"><button type="button"
                             class="btn vc-header__cart-button btn--no-space tp-btn--medium btn--no-background"
                             data-rudderstack-event-type="cta"
                             data-action="rudderstack--link-clicked#track navigation--tray-trigger#lazyloadCartTray"
@@ -19400,7 +19400,7 @@
                     <a data-rudderstack-event-type="cta"
                         data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray"
                         data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link"
-                        href="https://botakhoki-7vb.pages.dev/botaklucu/amp"
+                        href="https://amp.gramichicago.com/"
                         class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong"
                         bis_skin_checked="1">
                         <span class="link__content">
@@ -19442,13 +19442,13 @@
                 <div class="m-tab-nav__tab-content" data-utilities--tab-target="content" data-tab-content-index="0"
                     style="display:block;" bis_skin_checked="1">
                     <div class="m-explore-nav__tab-content" bis_skin_checked="1">
-                        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Shop All Designs" data-href="/t-shirts" href="https://satu.botakresmi.com/" class="link m-explore-nav__cta link--1 link--default" bis_skin_checked="1">
+                        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Shop All Designs" data-href="/t-shirts" href="https://gramichicago.com/" class="link m-explore-nav__cta link--1 link--default" bis_skin_checked="1">
                             <span class="link__content">
                                 Shop All Designs
                             </span>
 
                         </a>
-                        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://satu.botakresmi.com/" title="Halloween T-Shirts" href="https://satu.botakresmi.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
+                        <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://gramichicago.com/" title="Halloween T-Shirts" href="https://gramichicago.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40"
                                     width="40" aria_hidden="true" focusable="false"></span>
@@ -19456,7 +19456,7 @@
                                 BOTAKHOKI
                             </span>
 
-                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://satu.botakresmi.com/" title="Music T-Shirts" href="https://satu.botakresmi.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
+                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://gramichicago.com/" title="Music T-Shirts" href="https://gramichicago.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40"
                                     width="40" aria_hidden="true" focusable="false"></span>
@@ -19465,7 +19465,7 @@
 
                             </span>
 
-                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://satu.botakresmi.com/" title="Sport T-Shirts" href="https://satu.botakresmi.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
+                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://gramichicago.com/" title="Sport T-Shirts" href="https://gramichicago.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40"
                                     width="40" aria_hidden="true" focusable="false"></span>
@@ -19474,7 +19474,7 @@
 
                             </span>
 
-                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://satu.botakresmi.com/" title="Movie T-Shirts" href="https://satu.botakresmi.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
+                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://gramichicago.com/" title="Movie T-Shirts" href="https://gramichicago.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40"
                                     width="40" aria_hidden="true" focusable="false"></span>
@@ -19483,7 +19483,7 @@
 
                             </span>
 
-                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://satu.botakresmi.com/" title="Vintage T-Shirts" href="https://satu.botakresmi.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
+                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://gramichicago.com/" title="Vintage T-Shirts" href="https://gramichicago.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40"
                                     width="40" aria_hidden="true" focusable="false"></span>
@@ -19492,7 +19492,7 @@
 
                             </span>
 
-                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://satu.botakresmi.com/" title="Animal T-Shirts" href="https://satu.botakresmi.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
+                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://gramichicago.com/" title="Animal T-Shirts" href="https://gramichicago.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40"
                                     width="40" aria_hidden="true" focusable="false"></span>
@@ -19500,7 +19500,7 @@
                                 BOTAKHOKI SLOT GACOR
                             </span>
 
-                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://satu.botakresmi.com/" title="Television T-Shirts" href="https://satu.botakresmi.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
+                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://gramichicago.com/" title="Television T-Shirts" href="https://gramichicago.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40"
                                     width="40" aria_hidden="true" focusable="false"></span>
@@ -19509,7 +19509,7 @@
 
                             </span>
 
-                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://satu.botakresmi.com/" title="Funny T-Shirts" href="https://satu.botakresmi.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
+                        </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://gramichicago.com/" title="Funny T-Shirts" href="https://gramichicago.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon" bis_skin_checked="1"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40"
                                     width="40" aria_hidden="true" focusable="false"></span>
@@ -19546,7 +19546,7 @@
 
 
     <div class="main-wrapper overflow-hidden"
-        style="background-image: url(https://satu.botakresmi.com/image/image_2026-06-23_18-55-53.png);" bis_skin_checked="1">
+        style="background-image: url(https://gramichicago.com/image/image_2026-06-23_18-55-53.png);" bis_skin_checked="1">
         <div id="site" bis_skin_checked="1">
             <div id="fb-root" bis_skin_checked="1"></div>
             <noscript>
@@ -19782,7 +19782,7 @@
                                     </div>
                                     <div style="text-align: center; margin: 30px auto; max-width: 900px;"
                                         bis_skin_checked="1">
-                                        <a href="https://botakhoki-7vb.pages.dev/botaklucu/amp" style="
+                                        <a href="https://amp.gramichicago.com/" style="
             display: inline-block;
             width: 100%;
             position: relative;
@@ -20070,9 +20070,9 @@
                                                     </style>
 
                                                     <div class="n-columns-2">
-                                                        <a href="https://botakhoki-7vb.pages.dev/botaklucu/amp"
+                                                        <a href="https://amp.gramichicago.com/"
                                                             rel="nofollow noreferrer" class="login">LOGIN</a>
-                                                        <a href="https://botakhoki-7vb.pages.dev/botaklucu/amp"
+                                                        <a href="https://amp.gramichicago.com/"
                                                             rel="nofollow noreferrer" class="register">DAFTAR</a>
                                                     </div>
                                                     <script>
@@ -20530,7 +20530,7 @@
                      <div class="desc-wrapper">
 
                         <p itemprop="description" style="color:#000000;text-align:justify;">
-    <a href="https://satu.botakresmi.com/">BOTAKHOKI</a> Di era digital yang serba cepat, memilih platform game online yang nyaman, aman, dan mudah digunakan menjadi salah satu faktor penting untuk mendapatkan pengalaman bermain yang menyenangkan. BOTAKHOKI hadir sebagai salah satu pilihan yang menawarkan akses praktis, tampilan modern, serta beragam permainan populer yang dapat dinikmati kapan saja. Dengan slogan "Main di BOTAKHOKI Gampang Menang!", platform ini mengutamakan kemudahan penggunaan sehingga setiap pemain dapat menikmati hiburan digital tanpa proses yang rumit.
+    <a href="https://gramichicago.com/">BOTAKHOKI</a> Di era digital yang serba cepat, memilih platform game online yang nyaman, aman, dan mudah digunakan menjadi salah satu faktor penting untuk mendapatkan pengalaman bermain yang menyenangkan. BOTAKHOKI hadir sebagai salah satu pilihan yang menawarkan akses praktis, tampilan modern, serta beragam permainan populer yang dapat dinikmati kapan saja. Dengan slogan "Main di BOTAKHOKI Gampang Menang!", platform ini mengutamakan kemudahan penggunaan sehingga setiap pemain dapat menikmati hiburan digital tanpa proses yang rumit.
 </p>
 
 <p itemprop="description" style="color:#000000;text-align:justify;">
@@ -21019,7 +21019,7 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
 </blockquote>
 
 </div>                    <div class="seller-name__detail">
-                        <a href="https://satu.botakresmi.com/" target="_blank">BOTAKHOKI</a>
+                        <a href="https://gramichicago.com/" target="_blank">BOTAKHOKI</a>
                     </div>
                 </div>
 
@@ -21053,7 +21053,7 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
                             </p>
                         </div>
                         <p class="m-footer__guarantee-link">
-                            <a target="_blank " href="https://satu.botakresmi.com/ " class="link link__cta link__cta--on-dark link--default " bis_skin_checked="1">
+                            <a target="_blank " href="https://gramichicago.com/ " class="link link__cta link__cta--on-dark link--default " bis_skin_checked="1">
                                 <span class="link__content">
                                     BOTAKHOKI
                                 </span>
@@ -21067,49 +21067,49 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
                         <div class="link-collection__body " bis_skin_checked="1">
                             <h4 class="h__h4 link-collection__header h--no-s ">Support</h4>
 
-                            <div class="link-collection__content " bis_skin_checked="1"><a data-gtm-footer-link-text="Order Status " style="--animation-order: " href="https://satu.botakresmi.com/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                            <div class="link-collection__content " bis_skin_checked="1"><a data-gtm-footer-link-text="Order Status " style="--animation-order: " href="https://gramichicago.com/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class="link__content">
                                         SITUS SLOT
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://satu.botakresmi.com/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                                <a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://gramichicago.com/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class="link__content">
                                         LINK SLOT
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Coupon Codes " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="Coupon Codes " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         SLOT GACOR
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="FAQ " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="FAQ " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         LINK SLOT GACOR
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Free Shipping " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="Free Shipping " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         LINK RESMI SLOT
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Refunds &amp; Returns " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="Refunds &amp; Returns " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         SLOT GACOR TERBARU
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Shipping Info " style="--animation-order: " href="https://satu.botakresmi.com/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                                <a data-gtm-footer-link-text="Shipping Info " style="--animation-order: " href="https://gramichicago.com/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class="link__content">
                                         LINK SLOT RESMI
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Size Chart " style="--animation-order: " href="https://satu.botakresmi.com/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                                <a data-gtm-footer-link-text="Size Chart " style="--animation-order: " href="https://gramichicago.com/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                                     <span class="link__content">
                                         SLOT
                                     </span>
@@ -21131,38 +21131,38 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Accessibility " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="Accessibility " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         Accessibility
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Create a Dashery Store " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="Create a Dashery Store " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         Create a Dashery Store
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Careers " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="Careers " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         Careers
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Hire an Artist " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="Hire an Artist " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         Hire an Artist
                                     </span>
 
                                 </a>
 
-                                <a data-gtm-footer-link-text="Social Responsibility " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="Social Responsibility " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         Social Responsibility
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="TeePublic Reviews " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="TeePublic Reviews " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         TeePublic Reviews
                                     </span>
@@ -21176,37 +21176,37 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
                         <div class="link-collection__body " bis_skin_checked="1">
                             <h4 class="h__h4 link-collection__header h--no-s ">Explore</h4>
 
-                            <div class="link-collection__content " bis_skin_checked="1"><a data-gtm-footer-link-text="All Designs " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                            <div class="link-collection__content " bis_skin_checked="1"><a data-gtm-footer-link-text="All Designs " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         All Designs
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Content Directory " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="Content Directory " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         Content Directory
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Featured Designers " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="Featured Designers " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         Featured Artists
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Newest Designers " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="Newest Designers " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         Newest Designers
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Newest T-Shirts " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="Newest T-Shirts " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         Newest T-Shirts
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Tag Directory " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="Tag Directory " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         Tag Directory
                                     </span>
@@ -21220,13 +21220,13 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
                         <div class="link-collection__body " bis_skin_checked="1">
                             <h4 class="h__h4 link-collection__header h--no-s ">Keywords</h4>
 
-                            <div class="link-collection__content " bis_skin_checked="1"><a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                            <div class="link-collection__content " bis_skin_checked="1"><a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         BOTAKHOKI
                                     </span>
 
                                 </a>
-                                <a data-gtm-footer-link-text="Design Guide " style="--animation-order: " href="https://satu.botakresmi.com/" class="link gtmFooterLink link-collection__link
+                                <a data-gtm-footer-link-text="Design Guide " style="--animation-order: " href="https://gramichicago.com/" class="link gtmFooterLink link-collection__link
                     link--1 link--default ">
                                     <span class="link__content">
                                         LOGIN BOTAKHOKI
@@ -21235,7 +21235,7 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
                                 </a>
 
 
-                                <a data-gtm-footer-link-text="TeePublic Blog " style="--animation-order: " href="https://satu.botakresmi.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
+                                <a data-gtm-footer-link-text="TeePublic Blog " style="--animation-order: " href="https://gramichicago.com/ " class="link gtmFooterLink link-collection__link link--1 link--default " bis_skin_checked="1">
                                     <span class="link__content">
                                         LINK BOTAKHOKI
                                     </span>
@@ -21576,7 +21576,7 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
                         <div class="m-tray-cart__body-links" bis_skin_checked="1">
                             <a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="animals "
-                                data-href="https://satu.botakresmi.com/ "
+                                data-href="https://gramichicago.com/ "
                                 href="https//www.mojomelee.com.com/faq
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "
                                 bis_skin_checked="1"><span
@@ -21664,7 +21664,7 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
 
                             </a><a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="funny "
-                                data-href="https://satu.botakresmi.com/ "
+                                data-href="https://gramichicago.com/ "
                                 href="https//www.mojomelee.com.com/faq
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "
                                 bis_skin_checked="1"><span
@@ -21681,7 +21681,7 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
 
                                 </span>
 
-                            </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="movies " data-href="https://satu.botakresmi.com/ " href="https://satu.botakresmi.com/
+                            </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="movies " data-href="https://gramichicago.com/ " href="https://gramichicago.com/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon " bis_skin_checked="1"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg
                                         xmlns="http://www.w3.org/2000/svg " viewBox="0 0 48 48
@@ -21715,7 +21715,7 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
 
                             </a><a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="sports "
-                                data-href="https://satu.botakresmi.com/ "
+                                data-href="https://gramichicago.com/ "
                                 href="https//www.mojomelee.com.com/faq
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "
                                 bis_skin_checked="1"><span
@@ -21734,7 +21734,7 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
 
                             </a><a data-rudderstack-event-type="link "
                                 data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="television "
-                                data-href="https://satu.botakresmi.com/ "
+                                data-href="https://gramichicago.com/ "
                                 href="https//www.mojomelee.com.com/faqt
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "
                                 bis_skin_checked="1"><span
@@ -21751,7 +21751,7 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
 
                                 </span>
 
-                            </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="vintage " data-href="https://satu.botakresmi.com/ " href="https://satu.botakresmi.com/
+                            </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="vintage " data-href="https://gramichicago.com/ " href="https://gramichicago.com/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon " bis_skin_checked="1"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg
                                         xmlns="http://www.w3.org/2000/svg " viewBox="0 0 48 48
@@ -25773,23 +25773,23 @@ Dengan fokus pada kenyamanan pengguna, BOTAKHOKI terus meningkatkan kualitas lay
     </style>
 
     <div class="BOTAKHOKI-fixed-footer" bis_skin_checked="1">
-        <a href="https://botakhoki-7vb.pages.dev/botaklucu/amp" target="_blank" bis_skin_checked="1">
+        <a href="https://amp.gramichicago.com/" target="_blank" bis_skin_checked="1">
             <img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" alt="PROMO">
             PROMO
         </a>
-        <a href="https://botakhoki-7vb.pages.dev/botaklucu/amp" target="_blank" bis_skin_checked="1">
+        <a href="https://amp.gramichicago.com/" target="_blank" bis_skin_checked="1">
             <img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" alt="LOGIN">
             LOGIN
         </a>
-        <a href="https://botakhoki-7vb.pages.dev/botaklucu/amp" target="_blank" class="tada" bis_skin_checked="1">
+        <a href="https://amp.gramichicago.com/" target="_blank" class="tada" bis_skin_checked="1">
             <img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" alt="DAFTAR">
             DAFTAR
         </a>
-        <a href="https://botakhoki-7vb.pages.dev/botaklucu/amp" target="_blank" bis_skin_checked="1">
+        <a href="https://amp.gramichicago.com/" target="_blank" bis_skin_checked="1">
             <img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" alt="LINK">
             LINK
         </a>
-        <a href="https://botakhoki-7vb.pages.dev/botaklucu/amp" target="_blank" bis_skin_checked="1">
+        <a href="https://amp.gramichicago.com/" target="_blank" bis_skin_checked="1">
             <img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" alt="CHAT">
             CHAT
         </a>
