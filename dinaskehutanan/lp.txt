@@ -9,14 +9,14 @@
   <link rel="icon" type="image/x-icon" href="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.pngg" />
   <link rel="apple-touch-icon" href="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.pngg">
   <link rel="canonical" href="https://cuadrospersonalizados.com.mx/">
-  <link rel="amphtml" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp" />
-  <link rel="alternate" hreflang="id-id" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp"/>
-  <link rel="alternate" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp"/>
-  <link rel="alternate" hreflang="id" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp"/>
-  <link rel="alternate" hreflang="en" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp"/>
-  <link rel="alternate" hreflang="x-default" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp"/>
-  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp" />
-  <link rel="alternate" media="handheld" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp" />
+  <link rel="amphtml" href="https://amp.cuadrospersonalizados.com.mx/" />
+  <link rel="alternate" hreflang="id-id" href="https://amp.cuadrospersonalizados.com.mx/"/>
+  <link rel="alternate" href="https://amp.cuadrospersonalizados.com.mx/"/>
+  <link rel="alternate" hreflang="id" href="https://amp.cuadrospersonalizados.com.mx/"/>
+  <link rel="alternate" hreflang="en" href="https://amp.cuadrospersonalizados.com.mx/"/>
+  <link rel="alternate" hreflang="x-default" href="https://amp.cuadrospersonalizados.com.mx/"/>
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://amp.cuadrospersonalizados.com.mx/" />
+  <link rel="alternate" media="handheld" href="https://amp.cuadrospersonalizados.com.mx/" />
   <link as='image' href='https://botakhoki-7vb.pages.dev/botakhoki/219462b5-dd87-49c3-848b-359bd1377c17.png' rel='preload'>
   <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -278,14 +278,14 @@
   </div>
 
   <div class="btn-wrapper">
-    <a href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp"
+    <a href="https://amp.cuadrospersonalizados.com.mx/"
       class="btn-pill btn-login"
       target="_top"
       rel="noopener noreferrer">
       LOGIN
     </a>
 
-    <a href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp"
+    <a href="https://amp.cuadrospersonalizados.com.mx/"
       class="btn-pill btn-daftar"
       target="_top"
       rel="noopener noreferrer">
@@ -755,9 +755,9 @@
   <div class='m-cart-config__select-label'>
   </div>
       <div class="toto-toto-btn">
-      <a href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp" rel="nofollow noreferrer"
+      <a href="https://amp.cuadrospersonalizados.com.mx/" rel="nofollow noreferrer"
           class="login">LOGIN</a>
-      <a href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp" rel="nofollow noreferrer"
+      <a href="https://amp.cuadrospersonalizados.com.mx/" rel="nofollow noreferrer"
           class="register">DAFTAR</a>
       </div>
 
@@ -1608,7 +1608,7 @@
   </script>
 
       <div class="seller-name__detail">
-        <a href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp" target="_top" rel="noopener noreferrer">
+        <a href="https://amp.cuadrospersonalizados.com.mx/" target="_top" rel="noopener noreferrer">
           BOTAKHOKI - 2026
         </a>
       </div>
@@ -1625,7 +1625,7 @@
   <div class='jsSocial'>
   <ul class='m-social-share'>
   <li>
-  <a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
+  <a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://amp.cuadrospersonalizados.com.mx/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
   <span class='link__content'>
   <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/twitter_x-e7ec227c1ad2634b8096bcccb765eddf5be0612af99dc39f81589c7440f53741.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1633,7 +1633,7 @@
 
   </a></li>
   <li>
-  <a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp" class="link gtmFbProductShare facebook link--1 link--default">
+  <a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://amp.cuadrospersonalizados.com.mx/" class="link gtmFbProductShare facebook link--1 link--default">
   <span class='link__content'>
   <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/facebook-782a69eed8f8c44472034fa1a149c795915e716c13a0c9499e024cb5d43f3ba5.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1641,7 +1641,7 @@
 
   </a></li>
   <li>
-  <a aria-label="Share to Linktree" target="_blank" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp" class="link gtmLinktreeProductShare linktree link--1 link--default">
+  <a aria-label="Share to Linktree" target="_blank" href="https://amp.cuadrospersonalizados.com.mx/" class="link gtmLinktreeProductShare linktree link--1 link--default">
   <span class='link__content'>
   <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/linktree-77e016868e593884b6412143a45aad6268f47dc11dede4fe3dfec967af8379c7.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1649,7 +1649,7 @@
 
   </a></li>
   <li>
-  <a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
+  <a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://amp.cuadrospersonalizados.com.mx/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
   <span class='link__content'>
   <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/pinterest-bf44b194464a76e11f21f63eedb266534dafbdd4d28f646eb1f731f0737f1d27.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1657,7 +1657,7 @@
 
   </a></li>
   <li>
-  <a aria-label="Share to Reddit" target="_blank" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp" class="link gtmRedditProductShare reddit link--1 link--default">
+  <a aria-label="Share to Reddit" target="_blank" href="https://amp.cuadrospersonalizados.com.mx/" class="link gtmRedditProductShare reddit link--1 link--default">
   <span class='link__content'>
   <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/reddit-a08812dd6e957c987946f6fa3808df6dada5b1f95e538017767af02adfda49b8.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1665,7 +1665,7 @@
 
   </a></li>
   <li>
-  <a aria-label="Share to Tumblr" target="_blank" href="https://botakhoki-7vb.pages.dev/dinaskehutanan/amp" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
+  <a aria-label="Share to Tumblr" target="_blank" href="https://amp.cuadrospersonalizados.com.mx/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
   <span class='link__content'>
   <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/tumblr-72746366fce360d1a23b94973d204278af451141b23aebe1dd3671bfff083f2a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -2777,7 +2777,7 @@
     
     var rsEnvData = {
       write_key: "2HNPADTAqRU1fVtw8bfPRR44gtx",
-      data_plane_url: "https://botakhoki-7vb.pages.dev/dinaskehutanan/amp",
+      data_plane_url: "https://amp.cuadrospersonalizados.com.mx/",
       js_use_beacon: false,
       anonymous_id: "cd1d819e-a9e0-4e3d-b8be-56639cfbd299",
       global_properties: window.rudderstackGlobalProperties
