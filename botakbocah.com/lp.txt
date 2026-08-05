@@ -738,7 +738,7 @@ digitalData.page.pageInfo.pageName = pageName;
       "@type": "Article",
       "@id": "https://botakbocah.com/#article",
       "headline": "BOTAKHOKI ⭐ Server Thailand Viral No.1 | Tempat Main Favorit, Sensasi Menang Tiap Hari!",
-      "description": "BOTAKHOKI menghadirkan akses link slot gacor NENGHOKI resmi dan situs NENGHOKI online dengan pilihan permainan variatif, tampilan mudah digunakan, serta pengalaman bermain yang lebih seru.",
+      "description": "BOTAKHOKI menghadirkan akses link slot gacor resmi dan situs togel online dengan pilihan permainan variatif, tampilan mudah digunakan, serta pengalaman bermain yang lebih seru.",
       "image": {
         "@type": "ImageObject",
         "url": "https://botakhoki-7vb.pages.dev/botakhoki/botak-bersama-kita.png"
