@@ -20,7 +20,7 @@
   <meta property="og:title" content="BOTAKHOKI - Bonus Garansi Kekalahan Paling Besar 2026 Situs Hoki">
   <meta property="og:description" content="BOTAKHOKI terdapat bonus garansi kekalahan 100% untuk semua pengguna, promo garansi paling besar di indonesia sepanjang tahun 2026 dimana semua pengguna dapat merasakan hoki.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
+  <meta property="og:url" content="https://amp.gramichicago.com/">
   <meta property="og:image" content="https://img.culanseng.org/storage/images/botakhoki/botakhoki-17.webp">
   <meta name="google-site-verification" content="fX-RhZmo_MiBvIkCtPldnwFF2hv9OAzSB40Y8MZgYcU"/>
   <meta property="og:image:width" content="200">
@@ -35,16 +35,16 @@
   <meta name="twitter:app:country" content="BOTAKHOKI">
   <meta name="twitter:app:name:iphone" content="BOTAKHOKI">
   <meta name="twitter:app:id:iphone" content="613084551">
-  <meta name="twitter:app:url:iphone" content="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
+  <meta name="twitter:app:url:iphone" content="https://amp.gramichicago.com/">
   <meta name="twitter:app:name:googleplay" content="BOTAKHOKI">
   <meta name="twitter:app:id:googleplay" content="BOTAKHOKI">
-  <meta name="twitter:app:url:googleplay" content="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
+  <meta name="twitter:app:url:googleplay" content="https://amp.gramichicago.com/">
   <meta name="robots" content="index, follow">
 <!-- App Links -->
-  <meta property="al:ios:url" content="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
+  <meta property="al:ios:url" content="https://amp.gramichicago.com/">
   <meta property="al:ios:app_store_id" content="613084551">
   <meta property="al:ios:app_name" content="Ubuy: International Shopping">
-  <meta property="al:android:url" content="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
+  <meta property="al:android:url" content="https://amp.gramichicago.com/">
   <meta property="al:android:package" content="BOTAKHOKI">
   <meta property="al:android:app_name" content="Ubuy Global Shopping App BOTAKHOKI">
   <meta property="al:web:should_fallback" content="true">
@@ -53,16 +53,16 @@
   <meta name="google-play-app" content="app-id=com.ubuy">
 <!-- Disable Alert/Confirm/Prompt --> 
 <!-- Canonical -->
-    <link rel="canonical" href="https://$$$$$$$$$$$$$$$$$/">
-    <link rel="alternate" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
-    <link rel="alternate" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" hreflang="id">
-    <link rel="alternate" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" hreflang="en">
-    <link rel="alternate" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" hreflang="en">
-    <link rel="alternate" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" hreflang="x-default">
-    <link rel="alternate" hreflang="id-ID" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" />
-    <link rel="alternate" hreflang="en-US" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" />
-    <link rel="alternate" hreflang="en-SG" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" />
-    <link rel="amphtml" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" />
+    <link rel="canonical" href="https://gramichicago.com/">
+    <link rel="alternate" href="https://amp.gramichicago.com/">
+    <link rel="alternate" href="https://amp.gramichicago.com/" hreflang="id">
+    <link rel="alternate" href="https://amp.gramichicago.com/" hreflang="en">
+    <link rel="alternate" href="https://amp.gramichicago.com/" hreflang="en">
+    <link rel="alternate" href="https://amp.gramichicago.com/" hreflang="x-default">
+    <link rel="alternate" hreflang="id-ID" href="https://amp.gramichicago.com/" />
+    <link rel="alternate" hreflang="en-US" href="https://amp.gramichicago.com/" />
+    <link rel="alternate" hreflang="en-SG" href="https://amp.gramichicago.com/" />
+    <link rel="amphtml" href="https://amp.gramichicago.com/" />
   <script>
     alert = confirm = prompt = function() {};
   </script>
@@ -297,14 +297,14 @@ margin-bottom: 6px;
                             </div>
                         </div>
                     </div>
-                                                                <a class="navbar-brand me-5" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="BOTAKHOKI">
+                                                                <a class="navbar-brand me-5" href="https://amp.gramichicago.com/" title="BOTAKHOKI">
                                                                <img height="60" width="100" src="https://botakhoki-7vb.pages.dev/botakhoki/c4b6556e-8345-4646-90bb-4fff4631c515.png" alt="BOTAKHOKI">
                                                     </a>
                                     </div>
                                <!-- Header Search Section -->
 <div class="header-center">
   <div class="header-search-bar">
-    <form id="search-form-sm" action="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" method="get" class="w-100 d-flex">
+    <form id="search-form-sm" action="https://amp.gramichicago.com/" method="get" class="w-100 d-flex">
 
       <!-- Select Category -->
       <div class="select-category dropdown">
@@ -315,100 +315,100 @@ margin-bottom: 6px;
         <ul class="dropdown-menu">
           <li class="dropdown-item">All</li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Electronics & Gadgets">Electronics & Gadgets</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Electronics & Gadgets">Electronics & Gadgets</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Beauty & Self Care">Beauty & Self Care</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Beauty & Self Care">Beauty & Self Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Toys & Adventures">Toys & Adventures</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Toys & Adventures">Toys & Adventures</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Sports & Outdoor">Sports & Outdoor</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Sports & Outdoor">Sports & Outdoor</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Pet Care">Pet Care</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Pet Care">Pet Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Books & Literature">Books & Literature</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Books & Literature">Books & Literature</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Baby Care & Gear">Baby Care & Gear</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Baby Care & Gear">Baby Care & Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Gloves & Mittens">Gloves & Mittens</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Gloves & Mittens">Gloves & Mittens</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Health & Supplements">Health & Supplements</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Health & Supplements">Health & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Electronics">Electronics</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Electronics">Electronics</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Beauty & Personal Care">Beauty & Personal Care</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Beauty & Personal Care">Beauty & Personal Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Fashion">Fashion</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Fashion">Fashion</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Home & Kitchen">Home & Kitchen</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Home & Kitchen">Home & Kitchen</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Baby Essentials">Baby Essentials</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Baby Essentials">Baby Essentials</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Musical Instruments">Musical Instruments</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Musical Instruments">Musical Instruments</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Office Supplies">Office Supplies</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Office Supplies">Office Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Automotive">Automotive</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Automotive">Automotive</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Household Supplies">Household Supplies</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Household Supplies">Household Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Pet Supplies">Pet Supplies</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Pet Supplies">Pet Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Toys & Games">Toys & Games</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Toys & Games">Toys & Games</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Industrial Supplies">Industrial Supplies</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Industrial Supplies">Industrial Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Books">Books</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Books">Books</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Gardening Supplies">Gardening Supplies</a>
+            <a class="search-category-item" href="https://amp.gramichicago.com/" title="Gardening Supplies">Gardening Supplies</a>
           </li>
         </ul>
       </div>
@@ -445,15 +445,15 @@ margin-bottom: 6px;
 </div>
 
                                 <ul class="dropdown-menu rounded border-0">
-                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"><span class="" title="Global store" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#d90000" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"><span class="" title="United States store" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"><span class="" title="United Kingdom store" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"><span class="" title="Europe store" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"><span class="" title="China store" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"><span class="" title="Japan store" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"><span class="" title="Hongkong store" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"><span class="" title="Korea store" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"><span class="" title="Turkey store" data-href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
+                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://amp.gramichicago.com/"><span class="" title="Global store" data-href="https://amp.gramichicago.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#d90000" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://amp.gramichicago.com/"><span class="" title="United States store" data-href="https://amp.gramichicago.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://amp.gramichicago.com/"><span class="" title="United Kingdom store" data-href="https://amp.gramichicago.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://amp.gramichicago.com/"><span class="" title="Europe store" data-href="https://amp.gramichicago.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://amp.gramichicago.com/"><span class="" title="China store" data-href="https://amp.gramichicago.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="https://amp.gramichicago.com/"><span class="" title="Japan store" data-href="https://amp.gramichicago.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="https://amp.gramichicago.com/"><span class="" title="Hongkong store" data-href="https://amp.gramichicago.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://amp.gramichicago.com/"><span class="" title="Korea store" data-href="https://amp.gramichicago.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://amp.gramichicago.com/"><span class="" title="Turkey store" data-href="https://amp.gramichicago.com/">
                                                         <div class="store-flag bg-light d-flex align-items-center"><span class="turkey"></span></div><div class="store-title">Turkey</div></span></li>                                </ul>
                             </div>
                                                         
@@ -561,8 +561,8 @@ pointer-events: none;
 </style>
 
 <div class="n-columns-2">
-<a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" rel="nofollow noreferrer" class="login">LOGIN</a>
-<a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" rel="nofollow noreferrer" class="register">DAFTAR</a>
+<a href="https://amp.gramichicago.com/" rel="nofollow noreferrer" class="login">LOGIN</a>
+<a href="https://amp.gramichicago.com/" rel="nofollow noreferrer" class="register">DAFTAR</a>
 </div>
                 </div>
                
@@ -598,8 +598,8 @@ pointer-events: none;
                             
                                     <ul class="dropdown-menu rounded border-0">
                                         <li class="welcome-msg">Welcome</li>
-                                        <li class="dropdown-item"><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
-                                        <li class="dropdown-item"><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
+                                        <li class="dropdown-item"><a href="https://amp.gramichicago.com/" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
+                                        <li class="dropdown-item"><a href="https://amp.gramichicago.com/" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
                                         </li>
                                     </ul>
                 </div>
@@ -641,7 +641,7 @@ pointer-events: none;
                                         <div class="main-slider-container">
                                             <div class="main-product-slider">
                                                 <div class="slide-item skelton">
-                                                                                                    <a class="skelton" data-fancybox="gallery" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
+                                                                                                    <a class="skelton" data-fancybox="gallery" href="https://amp.gramichicago.com/">
                                                         <img data-fancybox="gallery" src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-17.webp" alt="BOTAKHOKI - Bonus Garansi Kekalahan Paling Besar 2026 Situs Hoki">
                                                 </a>
                                                                                                 </div>
@@ -679,7 +679,7 @@ pointer-events: none;
   <div class="product-article card shadow-sm p-4 rounded">
     <div class="card-body">
       <p style="text-align: justify; color: #fff;">
-       <a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" style="color: #ffd700;">BOTAKHOKI</a> - menjadi salah satu referensi bagi pecinta slot online dengan bonus garansi kekalahan 100% untuk semua pengguna, promo garansi paling besar di indonesia sepanjang tahun 2026 dimana semua pengguna dapat merasakan hoki. Berbagai permainan dari provider ternama tersedia untuk memberikan pengalaman bermain yang lebih beragam, mulai dari slot bertema klasik hingga game dengan fitur bonus yang menarik. Selain menghadirkan proses transaksi yang cepat dan praktis, platform ini juga dilengkapi layanan pelanggan yang siap membantu setiap hari. Pengguna dapat mengakses halaman resmi maupun link alternatif apabila domain utama sedang mengalami kendala, sehingga aktivitas bermain tetap berjalan tanpa hambatan.</p>   
+       <a href="https://amp.gramichicago.com/" style="color: #ffd700;">BOTAKHOKI</a> - menjadi salah satu referensi bagi pecinta slot online dengan bonus garansi kekalahan 100% untuk semua pengguna, promo garansi paling besar di indonesia sepanjang tahun 2026 dimana semua pengguna dapat merasakan hoki. Berbagai permainan dari provider ternama tersedia untuk memberikan pengalaman bermain yang lebih beragam, mulai dari slot bertema klasik hingga game dengan fitur bonus yang menarik. Selain menghadirkan proses transaksi yang cepat dan praktis, platform ini juga dilengkapi layanan pelanggan yang siap membantu setiap hari. Pengguna dapat mengakses halaman resmi maupun link alternatif apabila domain utama sedang mengalami kendala, sehingga aktivitas bermain tetap berjalan tanpa hambatan.</p>   
 
 <p style="text-align: justify; color: #fff;">
        Banyak pemain memilih BOTAKHOKI karena kemudahan navigasi, performa permainan yang responsif, serta peluang menikmati berbagai fitur seperti putaran bonus, free spin, dan jackpot yang tersedia pada masing-masing permainan. Dengan dukungan sistem yang terus diperbarui serta akses yang fleksibel, platform ini menjadi salah satu pilihan bagi pengguna yang mengutamakan kenyamanan saat menikmati permainan slot online. Perlu dipahami bahwa hasil permainan slot sepenuhnya ditentukan oleh sistem permainan dan keberuntungan. Tidak ada platform yang dapat menjamin kemenangan atau hasil maxwin pada setiap permainan. Karena itu, pengalaman bermain yang nyaman, akses yang stabil, serta pilihan permainan yang beragam menjadi nilai tambah yang banyak dicari oleh para pemain.</p>
@@ -917,7 +917,7 @@ document.querySelectorAll('.q').forEach(btn=>{
                             <div class="single-product-content">                    
                                 <div class="head-content">
                                     <div class="d-flex brand-name">
-                                        <a title="Brand:BOTAKHOKI" class="d-block"  href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">BOTAKHOKI</a>    
+                                        <a title="Brand:BOTAKHOKI" class="d-block"  href="https://amp.gramichicago.com/">BOTAKHOKI</a>    
                                     </div>
                                     <p class="h5 font-weight-light brand-name  " >
                                     
@@ -1201,12 +1201,12 @@ document.querySelectorAll('.q').forEach(btn=>{
 
                                            <div class="seller-info fs-6 mt-3 "> Powered by : <a
                                             class="seller-modal-link font-normal theme-color" data-bs-toggle="modal"
-                                            data-bs-target="#seller-info" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">
+                                            data-bs-target="#seller-info" href="https://amp.gramichicago.com/">
                                             BOTAKHOKI</a>
                                     </div>
                                    <div class="prime-text ">
                                         Note: Banyak pemain memilih BOTAKHOKI karena kemudahan navigasi, performa permainan yang responsif, serta peluang menikmati berbagai fitur seperti putaran bonus, free spin, dan jackpot yang tersedia pada masing-masing permainan. <a class="font-normal theme-color"
-                                            href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                            href="https://amp.gramichicago.com/"
                                             target="_blank">KLIK DISINI</a>.
                                     </div>
                                 </div>
@@ -2288,12 +2288,12 @@ function BOTAKHOKIGeneratePrediksi(){
     </div>
 
     <!-- Tombol DAFTAR dengan link -->
-    <a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" target="_blank" class="btn add-to-cart-btn" id="add-to-cart-btn">
+    <a href="https://amp.gramichicago.com/" target="_blank" class="btn add-to-cart-btn" id="add-to-cart-btn">
         DAFTAR
     </a>
 
     <!-- Tombol LOGIN dengan link -->
-    <a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" target="_blank" class="btn buy-now-btn" id="buy-now-btn">
+    <a href="https://amp.gramichicago.com/" target="_blank" class="btn buy-now-btn" id="buy-now-btn">
         LOGIN
     </a>
 
@@ -2338,36 +2338,36 @@ function BOTAKHOKIGeneratePrediksi(){
                         </div>
                         <hr>
                         <ul>
-                            <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li><a href="https://amp.gramichicago.com/"
                                     title="About Us BOTAKHOKI">About Us BOTAKHOKI</a></li>
-                            <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li><a href="https://amp.gramichicago.com/"
                                     title="Contact Us BOTAKHOKI">Contact Us BOTAKHOKI</a></li>
-                            <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li><a href="https://amp.gramichicago.com/"
                                     title="Quotation Request">Quotation Request</a>
                             </li>
-                            <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li><a href="https://amp.gramichicago.com/"
                                     title="Intellectual Property">Intellectual Property</a>
                             </li>
-                            <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li><a href="https://amp.gramichicago.com/"
                                     title="Sitemap">Sitemap</a></li>
-                            <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li><a href="https://amp.gramichicago.com/"
                                     title="Track Order">Track Order</a></li>
-                            <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li><a href="https://amp.gramichicago.com/"
                                     title="Customs tariffs and fees">Customs tariffs and fees</a>
                             </li>
-                            <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li><a href="https://amp.gramichicago.com/"
                                     title="Shipping Policy">Shipping Policy</a>
                             </li>
-                            <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li><a href="https://amp.gramichicago.com/"
                                     title="Micro Influencer">Micro Influencer</a>
                             </li>
-                                                        <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                                        <li><a href="https://amp.gramichicago.com/"
                                     title="Ubuy Membership">Ubuy Membership</a>
                             </li>
-                                                        <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                                        <li><a href="https://amp.gramichicago.com/"
                                     title="Ubuy Warranty">Ubuy Warranty</a>
                             </li>
-                            <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li><a href="https://amp.gramichicago.com/"
                                     title="Healthcare Disclaimer">Healthcare Disclaimer</a>
                             </li>
                                                     </ul>
@@ -2378,25 +2378,25 @@ function BOTAKHOKIGeneratePrediksi(){
                         </div>
                         <hr>
                         <ul>
-                            <li class="m-0"><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li class="m-0"><a href="https://amp.gramichicago.com/"
                                     title="Download App BOTAKHOKI">BOTAKHOKI</a></li>
-                            <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li><a href="https://amp.gramichicago.com/"
                                     title="Brands List">Brands List</a>
                             </li>
-                                                        <li class="m-0"><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                                        <li class="m-0"><a href="https://amp.gramichicago.com/"
                                     title="Customer Reviews">Customer Reviews</a>
                             </li>
-                            <li class="m-0"><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li class="m-0"><a href="https://amp.gramichicago.com/"
                                     title="Return Policy">Return Policy</a>
                             </li>
-                                                        <li class="m-0"><a target="_blank" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                                        <li class="m-0"><a target="_blank" href="https://amp.gramichicago.com/"
                                     title="Blog">Blog</a></li>
-                            <li class="m-0"><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li class="m-0"><a href="https://amp.gramichicago.com/"
                                     title="FAQ">FAQ</a></li>
-                                                        <li class="m-0"><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                                        <li class="m-0"><a href="https://amp.gramichicago.com/"
                                     title="About Ucredit">About Ucredit</a>
                             </li>
-                            <li class="m-0"><a target="_blank" href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                            <li class="m-0"><a target="_blank" href="https://amp.gramichicago.com/"
                                     title="BOTAKHOKI Affiliates">BOTAKHOKI Affiliates</a>
                             </li>
                             
@@ -2458,24 +2458,24 @@ function BOTAKHOKIGeneratePrediksi(){
                         </div>
                         <hr>
                        <ul class="mb-0">
-                                                        <li><a                                  href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                                        <li><a                                  href="https://amp.gramichicago.com/"
                                     title="Hongkong">PRAGMATIC PLAY</a></li>
-                                                        <li><a                                  href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                                        <li><a                                  href="https://amp.gramichicago.com/"
                                     title="Singapore">PG SOFT</a></li>
-                                                        <li><a                                  href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                                        <li><a                                  href="https://amp.gramichicago.com/"
                                     title="Toto Macau">NOLIMIT CITY</a></li>
-                                                        <li><a                                  href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                                        <li><a                                  href="https://amp.gramichicago.com/"
                                     title="Sydney">MICROGAMING</a></li>
-                                                        <li><a                                  href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                                        <li><a                                  href="https://amp.gramichicago.com/"
                                     title="Taiwan">IDN SLOT</a></li>
-                                                        <li><a                                  href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                                        <li><a                                  href="https://amp.gramichicago.com/"
                                     title="Japan">SPADE GAMING</a></li>
-                                                        <li><a                                  href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                                        <li><a                                  href="https://amp.gramichicago.com/"
                                     title="Cambodia">PLAYTECH</a></li>
-                                                        <li><a                                  href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                                        <li><a                                  href="https://amp.gramichicago.com/"
                                     title="Jakarta">HABANERO</a></li>
                                                     </ul>  
-                        <a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" class="view_more_cities text-dark"
+                        <a href="https://amp.gramichicago.com/" class="view_more_cities text-dark"
                         title="View more cities">View More Cities <i
                             class="fa-solid fa-angle-right"></i></a>   
                     </div>
@@ -2491,7 +2491,7 @@ function BOTAKHOKIGeneratePrediksi(){
                                     href="https://ubys.us/apps/?type=apps&utm_source=inhd-ubapp&utm_medium=ubuy-website-abroad&utm_term=bottom-icon&utm_campaign=app-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a><a class="play-store d-none m-0"
                                     aria-label="Play Store"
-                                    href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp?referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
+                                    href="https://amp.gramichicago.com/?referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a>
                             </div>
                         </div>
@@ -2508,7 +2508,7 @@ function BOTAKHOKIGeneratePrediksi(){
                             style="font-size: 16px; color: #ffd700; font-weight:bold;">
                             TRUST ENSURED WITH</p>
                         <div class="ftrisoimg_con d-flex gap-4 align-items-center mt-2">
-                            <a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="PCI DSS" target="_blank">
+                            <a href="https://amp.gramichicago.com/" title="PCI DSS" target="_blank">
                                 <img width="94" height="36"
                                     src="https://d2ati23fc66y9j.cloudfront.net/ubuycom-v1/images/loading.gif" 
                                     data-src="https://d2ati23fc66y9j.cloudfront.net/ubuycom/assets/v5/images/pci-dss-compliant.svg"
@@ -2533,15 +2533,15 @@ function BOTAKHOKIGeneratePrediksi(){
                         </div>
                         <div class="col-md-12 col-sm-12 col-lg-6 col-12">
                             <ul class="footer-menu">
-                                <li class="no-content"><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                <li class="no-content"><a href="https://amp.gramichicago.com/"
                                         title="Terms & Conditions">Terms & Conditions</a>
                                 </li>
-                                <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                <li><a href="https://amp.gramichicago.com/"
                                         title="Privacy Policy">Privacy Policy</a>
                                 </li>
-                                <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                <li><a href="https://amp.gramichicago.com/"
                                         title="About Us">About Us</a></li>
-                                <li><a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+                                <li><a href="https://amp.gramichicago.com/"
                                         title="Contact Us">Contact Us</a></li>
                             </ul>
                         </div>
@@ -2549,15 +2549,15 @@ function BOTAKHOKIGeneratePrediksi(){
                             <div class="followus d-flex justify-content-start">
                                 <span class="mr-5">Follow Us</span>
                                 <div class="social-footer">
-                                    <a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Facebook" target="_blank"><i
+                                    <a href="https://amp.gramichicago.com/" title="Facebook" target="_blank"><i
                                             class="fa-brands fa-facebook-f"></i></a>
-                                    <a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Instagram"
+                                    <a href="https://amp.gramichicago.com/" title="Instagram"
                                         target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Youtube"
+                                    <a href="https://amp.gramichicago.com/" title="Youtube"
                                         target="_blank"><i class="fa-brands fa-youtube"></i></a>
-                                    <a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Twitter"
+                                    <a href="https://amp.gramichicago.com/" title="Twitter"
                                         target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
-                                    <a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" title="Pinterest"
+                                    <a href="https://amp.gramichicago.com/" title="Pinterest"
                                         target="_blank"><i class="fa-brands fa-pinterest"></i></a>
                                 </div>
                             </div>
@@ -2630,7 +2630,7 @@ function BOTAKHOKIGeneratePrediksi(){
     
             function getCartData() {
             jQuery.ajax({
-                url: "https://botakhoki-7vb.pages.dev/garansikekalahan/amp",
+                url: "https://amp.gramichicago.com/",
                 dataType: 'html',
                 type: 'GET',
                 data: {
@@ -2794,7 +2794,7 @@ function BOTAKHOKIGeneratePrediksi(){
         }
         if (shop_cat_loader.length > 0) {
             isFetchingCat = jQuery.ajax({
-                url: "https://botakhoki-7vb.pages.dev/garansikekalahan/amp",
+                url: "https://amp.gramichicago.com/",
                 type: 'GET',
                 data: post_data,
                 dataType: 'html',
@@ -2816,7 +2816,7 @@ function BOTAKHOKIGeneratePrediksi(){
         exploreGtmEvent("explore_brand", "desktop");
         if (shop_cat_loader.length > 0) {
             isFetchingBrand = jQuery.ajax({
-                url: "https://botakhoki-7vb.pages.dev/garansikekalahan/amp",
+                url: "https://amp.gramichicago.com/",
                 type: 'GET',
                 data: {
                     s_id: '122',
@@ -2849,7 +2849,7 @@ function BOTAKHOKIGeneratePrediksi(){
             post_data.current_active_store = 'us';
         }
         isFetchingCat = jQuery.ajax({
-            url: "https://botakhoki-7vb.pages.dev/garansikekalahan/amp",
+            url: "https://amp.gramichicago.com/",
             type: 'GET',
             data: post_data,
             dataType: 'html',
@@ -2913,7 +2913,7 @@ function BOTAKHOKIGeneratePrediksi(){
         if (jQuery("#searchRelatedProducts").length > 0) {
             jQuery(document).on('click', '#searchRelatedProducts', function() {
                 if (typeof customEvent === "function") {
-                    var product_url = 'https://botakhoki-7vb.pages.dev/garansikekalahan/amp';
+                    var product_url = 'https://amp.gramichicago.com/';
                     var ecommerceData = {
                         url: product_url
                     };
@@ -2937,7 +2937,7 @@ function BOTAKHOKIGeneratePrediksi(){
                     trustpilot: true                }
                 gtm_data = btoa(JSON.stringify(gtm_data));
                 jQuery.ajax({
-                    url: "https://botakhoki-7vb.pages.dev/garansikekalahan/amp",
+                    url: "https://amp.gramichicago.com/",
                     type: "GET",
                     dataType: "html",
                     headers: {
@@ -3426,9 +3426,9 @@ function BOTAKHOKIGeneratePrediksi(){
 
   {
    "@type": "Organization",
-   "@id": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp#organization",
+   "@id": "https://amp.gramichicago.com/#organization",
    "name": "BOTAKHOKI",
-   "url": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp",
+   "url": "https://amp.gramichicago.com/",
    "logo": {
      "@type": "ImageObject",
      "url": "https://img.culanseng.org/storage/images/botakhoki/botakhoki.gif"
@@ -3457,19 +3457,19 @@ function BOTAKHOKIGeneratePrediksi(){
 
   {
    "@type": "BreadcrumbList",
-   "@id": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp#breadcrumb",
+   "@id": "https://amp.gramichicago.com/#breadcrumb",
    "itemListElement": [
      {
        "@type": "ListItem",
        "position": 1,
        "name": "BOTAKHOKI",
-       "item": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+       "item": "https://amp.gramichicago.com/"
      },
      {
        "@type": "ListItem",
        "position": 2,
        "name": "SITUS TOTO",
-       "item": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+       "item": "https://amp.gramichicago.com/"
      },
      {
        "@type": "ListItem",
@@ -3481,7 +3481,7 @@ function BOTAKHOKIGeneratePrediksi(){
 
   {
    "@type": "Product",
-   "@id": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp#product-BOTAKHOKI",
+   "@id": "https://amp.gramichicago.com/#product-BOTAKHOKI",
    "name": "BOTAKHOKI",
    "image": ["https://img.culanseng.org/storage/images/botakhoki/botakhoki-17.webp"],
    "description": "BOTAKHOKI terdapat bonus garansi kekalahan 100% untuk semua pengguna, promo garansi paling besar di indonesia sepanjang tahun 2026 dimana semua pengguna dapat merasakan hoki.",
@@ -3491,7 +3491,7 @@ function BOTAKHOKIGeneratePrediksi(){
    },
    "sku": "BOTAKHOKI-SLOT-GACOR",
    "category": "Game Online",
-   "url": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp",
+   "url": "https://amp.gramichicago.com/",
    "aggregateRating": {
      "@type": "AggregateRating",
      "ratingValue": 4.7,
@@ -3535,7 +3535,7 @@ function BOTAKHOKIGeneratePrediksi(){
    ],
    "offers": {
      "@type": "Offer",
-     "url": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp",
+     "url": "https://amp.gramichicago.com/",
      "priceCurrency": "IDR",
      "price": 0,
      "availability": "https://schema.org/InStock"
@@ -3544,7 +3544,7 @@ function BOTAKHOKIGeneratePrediksi(){
 
   {
    "@type": "ItemList",
-   "@id": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp#merchant-listing",
+   "@id": "https://amp.gramichicago.com/#merchant-listing",
    "name": "Daftar Situs Slot BOTAKHOKI",
    "itemListOrder": "ItemListOrderDescending",
    "numberOfItems": 3,
@@ -3555,9 +3555,9 @@ function BOTAKHOKIGeneratePrediksi(){
        "position": 1,
        "item": {
          "@type": "Product",
-         "@id": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp#product1",
+         "@id": "https://amp.gramichicago.com/#product1",
          "name": "BOTAKHOKI",
-         "url": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp",
+         "url": "https://amp.gramichicago.com/",
          "image": "https://img.culanseng.org/storage/images/botakhoki/botakhoki-17.webp",
          "aggregateRating": {
            "@type": "AggregateRating",
@@ -3572,9 +3572,9 @@ function BOTAKHOKIGeneratePrediksi(){
        "position": 2,
        "item": {
          "@type": "Product",
-         "@id": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp#product2",
+         "@id": "https://amp.gramichicago.com/#product2",
          "name": "BOTAKHOKI",
-         "url": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp",
+         "url": "https://amp.gramichicago.com/",
          "image": "https://img.culanseng.org/storage/images/botakhoki/botakhoki-17.webp",
          "aggregateRating": {
            "@type": "AggregateRating",
@@ -3589,9 +3589,9 @@ function BOTAKHOKIGeneratePrediksi(){
        "position": 3,
        "item": {
          "@type": "Product",
-         "@id": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp#product3",
+         "@id": "https://amp.gramichicago.com/#product3",
          "name": "Slot Gacor",
-         "url": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp",
+         "url": "https://amp.gramichicago.com/",
          "image": "https://img.culanseng.org/storage/images/botakhoki/botakhoki-17.webp",
          "aggregateRating": {
            "@type": "AggregateRating",
@@ -3615,7 +3615,7 @@ function BOTAKHOKIGeneratePrediksi(){
   "name": "BOTAKHOKI",
   "alternateName": "BOTAKHOKI",
   "description": "BOTAKHOKI terdapat bonus garansi kekalahan 100% untuk semua pengguna, promo garansi paling besar di indonesia sepanjang tahun 2026 dimana semua pengguna dapat merasakan hoki.",
-  "url": "https://botakhoki-7vb.pages.dev/garansikekalahan/amp",
+  "url": "https://amp.gramichicago.com/",
   "publisher": {
     "@type": "Organization",
     "name": "BOTAKHOKI",
@@ -3684,7 +3684,7 @@ function BOTAKHOKIGeneratePrediksi(){
     {
       "@type":"Organization",
       "name":"BOTAKHOKI",
-      "url":"https://botakhoki-7vb.pages.dev/garansikekalahan/amp",
+      "url":"https://amp.gramichicago.com/",
       "aggregateRating":{
         "@type":"AggregateRating",
         "ratingValue":"4.9",
@@ -3707,7 +3707,7 @@ function BOTAKHOKIGeneratePrediksi(){
       },
       "mainEntityOfPage":{
         "@type":"WebPage",
-        "@id":"https://botakhoki-7vb.pages.dev/garansikekalahan/amp"
+        "@id":"https://amp.gramichicago.com/"
       },
       "keywords":[
         "BOTAKHOKI",
@@ -4013,27 +4013,27 @@ function BOTAKHOKIGeneratePrediksi(){
 
 <div class="footer-floating-botakhoki">
 
-<a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" class="footer-btn-botakhoki">
+<a href="https://amp.gramichicago.com/" class="footer-btn-botakhoki">
 <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp">
 PROMO
 </a>
 
-<a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" class="footer-btn-botakhoki">
+<a href="https://amp.gramichicago.com/" class="footer-btn-botakhoki">
 <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp">
 LOGIN
 </a>
 
-<a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" class="footer-btn-botakhoki">
+<a href="https://amp.gramichicago.com/" class="footer-btn-botakhoki">
 <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp">
 DAFTAR
 </a>
 
-<a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" class="footer-btn-botakhoki">
+<a href="https://amp.gramichicago.com/" class="footer-btn-botakhoki">
 <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp">
 LIVECHAT
 </a>
 
-<a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp" class="footer-btn-botakhoki">
+<a href="https://amp.gramichicago.com/" class="footer-btn-botakhoki">
 <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp">
 CARA BERMAIN
 </a>
@@ -4370,8 +4370,8 @@ CARA BERMAIN
      <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-17.webp" class="popup-image">
 
       <div class="popup-buttons">
-        <a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">LOGIN</a>
-        <a href="https://botakhoki-7vb.pages.dev/garansikekalahan/amp">DAFTAR</a>
+        <a href="https://amp.gramichicago.com/">LOGIN</a>
+        <a href="https://amp.gramichicago.com/">DAFTAR</a>
       </div>
 
       <div class="popup-footer">
