@@ -7,19 +7,19 @@
 <title>BOTAKHOKI > Langsung Saja Kawan Situs Toto & Slot Gacor Paten 2026</title>
 <link rel="icon" type="image/x-icon" href="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp" />
 <link rel="apple-touch-icon" href="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp">
-<link rel="canonical" href="https://$$$$$$$$$$$$$$$$$$$/">
-<link rel="amphtml" href="https://botakhoki-7vb.pages.dev/linkpaten/amp" />
+<link rel="canonical" href="https://westwallsendbaptist.org/">
+<link rel="amphtml" href="https://amp.westwallsendbaptist.org/" />
 <link as='image' href='https://img.culanseng.org/storage/images/botakhoki/botakhoki-18.webp' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://www.googletagmanager.com' rel='preconnect'>
 <link crossorigin href='https://www.gstatic.com' rel='preconnect'>
 <link crossorigin href='https://connect.facebook.net' rel='preconnect'>
-<link rel="alternate" hreflang="id-id" href="https://botakhoki-7vb.pages.dev/linkpaten/amp"/>
-<link rel="alternate" href="https://botakhoki-7vb.pages.dev/linkpaten/amp"/>
-<link rel="alternate" hreflang="id" href="https://botakhoki-7vb.pages.dev/linkpaten/amp"/>
-<link rel="alternate" hreflang="en" href="https://$$$$$$$$$$$$$$$$$$$/"/>
-<link rel="alternate" hreflang="x-default" href="https://$$$$$$$$$$$$$$$$$$$/"/>  
+<link rel="alternate" hreflang="id-id" href="https://amp.westwallsendbaptist.org/"/>
+<link rel="alternate" href="https://amp.westwallsendbaptist.org/"/>
+<link rel="alternate" hreflang="id" href="https://amp.westwallsendbaptist.org/"/>
+<link rel="alternate" hreflang="en" href="https://westwallsendbaptist.org/"/>
+<link rel="alternate" hreflang="x-default" href="https://westwallsendbaptist.org/"/>  
 <link rel="stylesheet" href="https://assets.teepublic.com/assets/bundles/product-27efacddfffc4e9541c100011b9e0cf4258b53d4bd8386ac5e37135f3cd07974.css" media="all" />
 <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-Medium-88ba78029f73fa9f18e1e3c31c1f076acdc49223af70a78b2ea4bdbab8168283.woff2' rel='preload' type='font/woff2'>
 <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-SemiBold-9d9c1ae0fc78f67d82c4fc43987857f5b897d29b903701d1e97c2e207311d636.woff2' rel='preload' type='font/woff2'>
@@ -48,8 +48,8 @@
       trackLongTasks: true,
       defaultPrivacyLevel: 'mask-user-input',
       allowedTracingUrls: [
-        'https://$$$$$$$$$$$$$$$$$$$/',
-        'https://$$$$$$$$$$$$$$$$$$$/'
+        'https://westwallsendbaptist.org/',
+        'https://westwallsendbaptist.org/'
       ]
     });
   })
@@ -68,7 +68,7 @@
 <meta property="og:price:amount" content="5.000">
 <meta property="og:price:currency" content="IDR">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://$$$$$$$$$$$$$$$$$$$/">
+<meta property="og:url" content="https://westwallsendbaptist.org/">
 <meta property="og:image" content="https://img.culanseng.org/storage/images/botakhoki/botakhoki-18.webp">
 <meta property="og:site_name" content="TeePublic">
 <meta property="product:price:amount" content="5.000">
@@ -83,7 +83,7 @@
   window.dataLayer = window.dataLayer || [];
 </script>
 <script>
-  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://$$$$$$$$$$$$$$$$$$$/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"IDR","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic BOTAKHOKI\",\"Color\":\"Red\"}","design__mock_image":"https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp","design__url":"https://$$$$$$$$$$$$$$$$$$$/","design__canvas":"BOTAKHOKI","design__canvas_canonical_name":"BOTAKHOKI","design__design_title":"BOTAKHOKI hadir kawan buat kamu yang bingung nyari situs paten ini solusi buat warga indonesia. Pasanglah mimpi mu jika bermimpi!","design__price":23.0,"design__price_IDR":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"IDR","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"5213434354132454R2"})
+  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://westwallsendbaptist.org/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"IDR","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic BOTAKHOKI\",\"Color\":\"Red\"}","design__mock_image":"https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp","design__url":"https://westwallsendbaptist.org/","design__canvas":"BOTAKHOKI","design__canvas_canonical_name":"BOTAKHOKI","design__design_title":"BOTAKHOKI hadir kawan buat kamu yang bingung nyari situs paten ini solusi buat warga indonesia. Pasanglah mimpi mu jika bermimpi!","design__price":23.0,"design__price_IDR":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"IDR","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"5213434354132454R2"})
 </script>
 <script>
   window.dataLayer.push({
@@ -333,7 +333,7 @@ input,textarea,select,.m-header__search-field-container{
 </div>
 
 </button></div>
-<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-header-logo__wrapper link--1 link--default">
+<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://westwallsendbaptist.org/" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
 <picture>
   <source srcset="https://botakhoki-7vb.pages.dev/botakhoki/c4b6556e-8345-4646-90bb-4fff4631c515.png" type="image/webp">
@@ -352,7 +352,7 @@ input,textarea,select,.m-header__search-field-container{
 </div>
 <div class='vc-header__search-container'>
 <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://$$$$$$$$$$$$$$$$$$$/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
+<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://westwallsendbaptist.org/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
 <div class='m-header__search-field-container'>
 <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
 <div class='m-header__search-field-placeholder'>
@@ -413,7 +413,7 @@ input,textarea,select,.m-header__search-field-container{
 
 </button></div>
 <div class='vc-header__cta'>
-<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
+<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://westwallsendbaptist.org/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
 <span class='link__content'>
 DAFTAR
 
@@ -436,13 +436,13 @@ Popular Products
 </ul>
 <div class='m-tab-nav__content'>
 <div class="m-tab-nav__tab-content" data-utilities--tab-target="content" data-tab-content-index="0"><div class='m-explore-nav__tab-content'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="BOTAKHOKI" data-href="https://$$$$$$$$$$$$$$$$$$$/" href="/BOTAKHOKIs" class="link m-explore-nav__cta link--1 link--default">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="BOTAKHOKI" data-href="https://westwallsendbaptist.org/" href="/BOTAKHOKIs" class="link m-explore-nav__cta link--1 link--default">
   <span class='link__content'>
     BOTAKHOKI
     </span>
     
     </a>
-    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://$$$$$$$$$$$$$$$$$$$/" title="BOTAKHOKI" href="https://$$$$$$$$$$$$$$$$$$$/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://westwallsendbaptist.org/" title="BOTAKHOKI" href="https://westwallsendbaptist.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
     <span class="teepublicon teepublicon--Black-default teepublicon-background--transparent">
     <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
     </span>
@@ -451,7 +451,7 @@ Popular Products
     </span>
     
     </a>
-    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://$$$$$$$$$$$$$$$$$$$/" title="SITUS BOTAKHOKI" href="https://$$$$$$$$$$$$$$$$$$$/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://westwallsendbaptist.org/" title="SITUS BOTAKHOKI" href="https://westwallsendbaptist.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
     <span class="teepublicon teepublicon--Black-default teepublicon-background--transparent">
     <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
     </span>
@@ -460,7 +460,7 @@ Popular Products
     </span>
     
     </a>
-    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://$$$$$$$$$$$$$$$$$$$/" title="BOTAKHOKI RESMI" href="https://$$$$$$$$$$$$$$$$$$$/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://westwallsendbaptist.org/" title="BOTAKHOKI RESMI" href="https://westwallsendbaptist.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
     <span class="teepublicon teepublicon--Black-default teepublicon-background--transparent">
     <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
     </span>
@@ -469,7 +469,7 @@ Popular Products
     </span>
     
     </a>
-    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://$$$$$$$$$$$$$$$$$$$/" title="BOTAKHOKI INDONESIA" href="https://$$$$$$$$$$$$$$$$$$$/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://westwallsendbaptist.org/" title="BOTAKHOKI INDONESIA" href="https://westwallsendbaptist.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
     <span class="teepublicon teepublicon--Black-default teepublicon-background--transparent">
     <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
     </span>
@@ -478,7 +478,7 @@ Popular Products
     </span>
     
     </a>
-    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://$$$$$$$$$$$$$$$$$$$/" title="BOTAKHOKI TERBARU" href="https://$$$$$$$$$$$$$$$$$$$/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://westwallsendbaptist.org/" title="BOTAKHOKI TERBARU" href="https://westwallsendbaptist.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
     <span class="teepublicon teepublicon--Black-default teepublicon-background--transparent">
     <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
     </span>
@@ -487,7 +487,7 @@ Popular Products
     </span>
     
     </a>
-    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://$$$$$$$$$$$$$$$$$$$/" title="BOTAKHOKI ONLINE" href="https://$$$$$$$$$$$$$$$$$$$/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://westwallsendbaptist.org/" title="BOTAKHOKI ONLINE" href="https://westwallsendbaptist.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
     <span class="teepublicon teepublicon--Black-default teepublicon-background--transparent">
     <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
     </span>
@@ -496,7 +496,7 @@ Popular Products
     </span>
     
     </a>
-    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://$$$$$$$$$$$$$$$$$$$/" title="PREDIKSI BOTAKHOKI ONLINE" href="https://$$$$$$$$$$$$$$$$$$$/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://westwallsendbaptist.org/" title="PREDIKSI BOTAKHOKI ONLINE" href="https://westwallsendbaptist.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
     <span class="teepublicon teepublicon--Black-default teepublicon-background--transparent">
     <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
     </span>
@@ -505,7 +505,7 @@ Popular Products
     </span>
     
     </a>
-    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://$$$$$$$$$$$$$$$$$$$/" title="RESULT BOTAKHOKI ONLINE" href="https://$$$$$$$$$$$$$$$$$$$/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+    <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://westwallsendbaptist.org/" title="RESULT BOTAKHOKI ONLINE" href="https://westwallsendbaptist.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
     <span class="teepublicon teepublicon--Black-default teepublicon-background--transparent">
     <img src="https://img.culanseng.org/storage/images/botakhoki/botakhoki-1.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
     </span>
@@ -546,7 +546,7 @@ Please enable Javascript and return here.
     "name": "BOTAKHOKI > Langsung Saja Kawan Situs Toto & Slot Gacor Paten 2026",
     "description": "BOTAKHOKI hadir kawan buat kamu yang bingung nyari situs paten ini solusi buat warga indonesia. Pasanglah mimpi mu jika bermimpi!",
     "category": "BOTAKHOKI",
-    "url": "https://$$$$$$$$$$$$$$$$$$$/",
+    "url": "https://westwallsendbaptist.org/",
     "sku": "5213434354132454R2",
     "image": {
       "@type": "ImageObject",
@@ -608,19 +608,19 @@ Please enable Javascript and return here.
     "@graph": [
       {
         "@type": "BreadcrumbList",
-        "@id": "https://$$$$$$$$$$$$$$$$$$$/#breadcrumb",
+        "@id": "https://westwallsendbaptist.org/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "BOTAKHOKI",
-            "item": "https://$$$$$$$$$$$$$$$$$$$/"
+            "item": "https://westwallsendbaptist.org/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "BOTAKHOKI ONLINE",
-            "item": "https://$$$$$$$$$$$$$$$$$$$/"
+            "item": "https://westwallsendbaptist.org/"
           },
           {
             "@type": "ListItem",
@@ -631,7 +631,7 @@ Please enable Javascript and return here.
       },
       {
         "@type": "Product",
-        "@id": "https://$$$$$$$$$$$$$$$$$$$/#product",
+        "@id": "https://westwallsendbaptist.org/#product",
         "name": "BOTAKHOKI > Langsung Saja Kawan Situs Toto & Slot Gacor Paten 2026",
         "description": "BOTAKHOKI hadir kawan buat kamu yang bingung nyari situs paten ini solusi buat warga indonesia. Pasanglah mimpi mu jika bermimpi!",
         "sku": "BOTAKHOKI-ONLINE",
@@ -645,7 +645,7 @@ Please enable Javascript and return here.
         "category": "BOTAKHOKI > BOTAKHOKI ONLINE > Togel BOTAKHOKI ONLINE",
         "offers": {
           "@type": "Offer",
-          "url": "https://$$$$$$$$$$$$$$$$$$$/",
+          "url": "https://westwallsendbaptist.org/",
           "priceCurrency": "IDR",
           "price": "5000",
           "availability": "https://schema.org/InStock",
@@ -702,7 +702,7 @@ Please enable Javascript and return here.
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "BOTAKHOKI",
-    "url": "https://$$$$$$$$$$$$$$$$$$$/",
+    "url": "https://westwallsendbaptist.org/",
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.9",
@@ -961,8 +961,8 @@ Back
 <div class="hero-btn">
 
     <div class="btn-group">
-        <a href="https://botakhoki-7vb.pages.dev/linkpaten/amp" class="btn-x">DAFTAR DISINI</a>
-        <a href="https://botakhoki-7vb.pages.dev/linkpaten/amp" class="btn-x">LOGIN DISINI</a>
+        <a href="https://amp.westwallsendbaptist.org/" class="btn-x">DAFTAR DISINI</a>
+        <a href="https://amp.westwallsendbaptist.org/" class="btn-x">LOGIN DISINI</a>
     </div>
 
     <img class="logo-3d"
@@ -2919,7 +2919,7 @@ Learn More
 <div class='tp-accordion__button-text'>Apakah benar BOTAKHOKI memiliki Winrate Tertinggi untuk pasaran BOTAKHOKI ONLINE?</div>
 <span class="teepublicon teepublicon--dark-default teepublicon-background--transparent teepublicon--rotate-90"><img src="https://assets.teepublic.com/assets/teepublicons/chevron_round-65095dd1f1baa03d093ded395b217a5a2ca9f13e816a72e5690adab871c8eebf.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 </button>
-<div class='tp-accordion__content' data-utilities--reveal-target='content'><p>Sangat Benar! BOTAKHOKI dikenal sebagai agen dengan winrate tertinggi karena kami menyediakan data keluaran (output) yang transparan serta berbagai tools bantuan seperti Prediksi Akurat, Buku Mimpi, dan Live Draw yang di-update real-time. Semua fasilitas ini dirancang khusus untuk membantu Anda meracik angka jitu dengan peluang tembus yang jauh lebih besar.<a href=https://$$$$$$$$$$$$$$$$$$$/ class='link link__cta link__cta--on-light link--default' target='_blank'><span class='link__content'>Learn&nbsp;More</span></a></p>
+<div class='tp-accordion__content' data-utilities--reveal-target='content'><p>Sangat Benar! BOTAKHOKI dikenal sebagai agen dengan winrate tertinggi karena kami menyediakan data keluaran (output) yang transparan serta berbagai tools bantuan seperti Prediksi Akurat, Buku Mimpi, dan Live Draw yang di-update real-time. Semua fasilitas ini dirancang khusus untuk membantu Anda meracik angka jitu dengan peluang tembus yang jauh lebih besar.<a href=https://westwallsendbaptist.org/ class='link link__cta link__cta--on-light link--default' target='_blank'><span class='link__content'>Learn&nbsp;More</span></a></p>
 
 </div>
 
@@ -2928,7 +2928,7 @@ Learn More
 <div class='tp-accordion__button-text'>Bagaimana cara memastikan bahwa pasaran BOTAKHOKI ONLINE di BOTAKHOKI itu Resmi?</div>
 <span class="teepublicon teepublicon--dark-default teepublicon-background--transparent teepublicon--rotate-90"><img src="https://assets.teepublic.com/assets/teepublicons/chevron_round-65095dd1f1baa03d093ded395b217a5a2ca9f13e816a72e5690adab871c8eebf.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 </button>
-<div class='tp-accordion__content' data-utilities--reveal-target='content'><p>Semua angka keluaran pasaran BOTAKHOKI ONLINE di BOTAKHOKI diambil langsung dari situs official pusat pemutaran angka BOTAKHOKI ONLINE. Tidak ada manipulasi, tidak ada sistem yang tertunda. Anda bisa mencocokkannya sendiri secara real-time. Fair play adalah prioritas utama kami.<a href=https://$$$$$$$$$$$$$$$$$$$/ class='link link__cta link__cta--on-light link--default' target='_blank'><span class='link__content'>Learn&nbsp;More</span></a></p>
+<div class='tp-accordion__content' data-utilities--reveal-target='content'><p>Semua angka keluaran pasaran BOTAKHOKI ONLINE di BOTAKHOKI diambil langsung dari situs official pusat pemutaran angka BOTAKHOKI ONLINE. Tidak ada manipulasi, tidak ada sistem yang tertunda. Anda bisa mencocokkannya sendiri secara real-time. Fair play adalah prioritas utama kami.<a href=https://westwallsendbaptist.org/ class='link link__cta link__cta--on-light link--default' target='_blank'><span class='link__content'>Learn&nbsp;More</span></a></p>
 
 </div>
 
@@ -3592,74 +3592,74 @@ Learn More
 <div class='m-design__additional-info' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='related_tags_trending_tags'>
 <h4 class='h h--6 m-design__subtitles'>Trending Tags</h4>
 <nav class='m-design__additional-info-list'>
-<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim"><a href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default">
+<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim"><a href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default">
   <span class='link__content'>
     BOTAKHOKI
     </span>
     
     </a>
     
-    <a href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default">
+    <a href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default">
       <span class='link__content'>
         BOTAKHOKI
       </span>
     </a>
     
-    <a href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default">
+    <a href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default">
       <span class='link__content'>
         SITUS BOTAKHOKI ONLINE
       </span>
     </a>
     
-    <a href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default">
+    <a href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default">
       <span class='link__content'>
         SITUS BOTAKHOKI
       </span>
     </a>
     
-    <a href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default">
+    <a href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default">
       <span class='link__content'>
         BOTAKHOKI RESMI
       </span>
     </a>
     
-    <a href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default">
+    <a href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default">
       <span class='link__content'>
         BOTAKHOKI INDONESIA
       </span>
     </a>
     
-    <a href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default">
+    <a href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default">
       <span class='link__content'>
         BOTAKHOKI TERBARU
       </span>
     </a>
     
-    <a href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default">
+    <a href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default">
       <span class='link__content'>
         BOTAKHOKI ONLINE
       </span>
     </a>
     
-    <a href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default">
+    <a href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default">
       <span class='link__content'>
         PREDIKSI BOTAKHOKI ONLINE
       </span>
     </a>
     
-    <a href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default">
+    <a href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default">
       <span class='link__content'>
         RESULT BOTAKHOKI ONLINE
       </span>
     </a>
     
-    <a href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default">
+    <a href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default">
       <span class='link__content'>
         BOTAKHOKI TERPERCAYA
       </span>
     </a>
     
-    <a href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default">
+    <a href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default">
       <span class='link__content'>
         BOTAKHOKI RESMI ONLINE
       </span>
@@ -3795,7 +3795,7 @@ For sales, exclusive content, and more!
 </p>
 </div>
 <div class='m-newsletter-signup-header__form'>
-<form data-controller="utilities--form-submission" data-utilities--form-submission-method-value="POST" data-utilities--form-submission-parent-class-value=".m-newsletter-signup" data-utilities--form-submission-success-class-value="m-newsletter-signup--success" data-utilities--form-submission-error-class-value="m-newsletter-signup--error" class="m-newsletter-signup-form" action="https://$$$$$$$$$$$$$$$$$$$/" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jSLOeo_N8-l6cdEKkzExxIogpvQOYckItql32riIbQX2xYCuodiwnvzIpDIG6l0ZdFaADjg9f67sBwmNIooKiA" autocomplete="off" /><input type="hidden" name="marketing_contact[source]" id="marketing_contact_source" value="tp_footer" data-utilities--form-submission-target="input" autocomplete="off" />
+<form data-controller="utilities--form-submission" data-utilities--form-submission-method-value="POST" data-utilities--form-submission-parent-class-value=".m-newsletter-signup" data-utilities--form-submission-success-class-value="m-newsletter-signup--success" data-utilities--form-submission-error-class-value="m-newsletter-signup--error" class="m-newsletter-signup-form" action="https://westwallsendbaptist.org/" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jSLOeo_N8-l6cdEKkzExxIogpvQOYckItql32riIbQX2xYCuodiwnvzIpDIG6l0ZdFaADjg9f67sBwmNIooKiA" autocomplete="off" /><input type="hidden" name="marketing_contact[source]" id="marketing_contact_source" value="tp_footer" data-utilities--form-submission-target="input" autocomplete="off" />
 <input type="hidden" name="marketing_contact[demo_version]" id="marketing_contact_demo_version" value="false" data-utilities--form-submission-target="input" autocomplete="off" />
 <div class='tp-form'>
 <div class='tp-input-field--wrapper'>
@@ -3859,7 +3859,7 @@ There was an issue subscribing, try again.
   
   <p class='m-footer__guarantee-link'>
     <a target="_blank"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       href="https://westwallsendbaptist.org/"
        class="link link__cta link__cta--on-dark link--default">
       <span class='link__content'>
         BOTAKHOKI
@@ -3883,7 +3883,7 @@ There was an issue subscribing, try again.
         <div class="link-collection__content">
   
           <a data-gtm-footer-link-text="BOTAKHOKI"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               BOTAKHOKI
@@ -3891,7 +3891,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="BOTAKHOKI ONLINE"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               BOTAKHOKI ONLINE
@@ -3899,7 +3899,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="SITUS BOTAKHOKI"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               SITUS BOTAKHOKI
@@ -3907,7 +3907,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="BOTAKHOKI INDONESIA"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               BOTAKHOKI INDONESIA
@@ -3915,7 +3915,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="BOTAKHOKI RESMI"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               BOTAKHOKI RESMI
@@ -3923,7 +3923,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="BOTAKHOKI TERBARU"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               BOTAKHOKI TERBARU
@@ -3946,7 +3946,7 @@ There was an issue subscribing, try again.
         <div class="link-collection__content">
   
           <a data-gtm-footer-link-text="Tentang BOTAKHOKI"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               Tentang BOTAKHOKI
@@ -3954,7 +3954,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="Informasi BOTAKHOKI"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               Informasi BOTAKHOKI
@@ -3962,7 +3962,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="BOTAKHOKI Indonesia"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               BOTAKHOKI Indonesia
@@ -3970,7 +3970,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="Pembaruan BOTAKHOKI"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               Pembaruan BOTAKHOKI
@@ -3978,7 +3978,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="Teknologi BOTAKHOKI"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               Teknologi BOTAKHOKI
@@ -3986,7 +3986,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="Panduan BOTAKHOKI"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               Panduan BOTAKHOKI
@@ -4009,7 +4009,7 @@ There was an issue subscribing, try again.
         <div class="link-collection__content">
   
           <a data-gtm-footer-link-text="Toto Togel Online"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               Toto Togel Online
@@ -4017,7 +4017,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="BOTAKHOKI ONLINE"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               BOTAKHOKI ONLINE
@@ -4025,7 +4025,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="Prediksi BOTAKHOKI"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               Prediksi BOTAKHOKI
@@ -4033,7 +4033,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="Result BOTAKHOKI"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               Result BOTAKHOKI
@@ -4041,7 +4041,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="BOTAKHOKI Terbaru"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               BOTAKHOKI Terbaru
@@ -4049,7 +4049,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="Informasi Togel Online"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               Informasi Togel Online
@@ -4072,7 +4072,7 @@ There was an issue subscribing, try again.
         <div class="link-collection__content">
   
           <a data-gtm-footer-link-text="Inovasi BOTAKHOKI"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               Inovasi BOTAKHOKI
@@ -4080,7 +4080,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="Perkembangan Platform"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               Perkembangan Platform
@@ -4088,7 +4088,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="Teknologi Website"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               Teknologi Website
@@ -4096,7 +4096,7 @@ There was an issue subscribing, try again.
           </a>
   
           <a data-gtm-footer-link-text="Analisis Data"
-             href="https://$$$$$$$$$$$$$$$$$$$/"
+             href="https://westwallsendbaptist.org/"
              class="link gtmFooterLink link-collection__link link--1 link--default">
             <span class='link__content'>
               Analisis Data
@@ -4145,7 +4145,7 @@ Away from
 <h4>Your Cart is empty...</h4>
 <p>Discover something you'll love!</p>
 <div class='m-tray-cart__body-links'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://$$$$$$$$$$$$$$$$$$$/" href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--Black-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://westwallsendbaptist.org/" href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--Black-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 animals
 
@@ -4175,13 +4175,13 @@ food
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://$$$$$$$$$$$$$$$$$$$/" href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--Black-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://westwallsendbaptist.org/" href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--Black-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 funny
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://$$$$$$$$$$$$$$$$$$$/" href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--Black-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://westwallsendbaptist.org/" href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--Black-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 movies
 
@@ -4193,19 +4193,19 @@ sci-fi
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://$$$$$$$$$$$$$$$$$$$/" href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--Black-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://westwallsendbaptist.org/" href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--Black-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 sports
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://$$$$$$$$$$$$$$$$$$$/" href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--Black-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://westwallsendbaptist.org/" href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--Black-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 television
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://$$$$$$$$$$$$$$$$$$$/" href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--Black-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://westwallsendbaptist.org/" href="https://westwallsendbaptist.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--Black-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 vintage
 
@@ -4493,7 +4493,7 @@ Back To Menu
 <div class='drawer__content-container jsDrawerContentContainer'>
 <div class='m-tray-shop__body'>
 <div class='m-tray-shop__logo-container'>
-<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://$$$$$$$$$$$$$$$$$$$/" class="link vc-header-logo__wrapper link--1 link--default">
+<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://westwallsendbaptist.org/" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
 <picture>
   <source srcset="https://botakhoki-7vb.pages.dev/botakhoki/c4b6556e-8345-4646-90bb-4fff4631c515.png" type="image/webp">
@@ -4558,8 +4558,8 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="BOTAKHOKI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-product tshirt">
       <span class='link__content'>
         <span>BOTAKHOKI</span>
@@ -4569,8 +4569,8 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="BOTAKHOKI ONLINE"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-product shorts m-tray-shop__popular-product--new">
       <span class='link__content'>
         <span>BOTAKHOKI ONLINE</span>
@@ -4580,8 +4580,8 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="SITUS BOTAKHOKI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-product hoodie">
       <span class='link__content'>
         <span>SITUS BOTAKHOKI</span>
@@ -4591,8 +4591,8 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="BOTAKHOKI RESMI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-product hat">
       <span class='link__content'>
         <span>BOTAKHOKI RESMI</span>
@@ -4602,8 +4602,8 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="BOTAKHOKI INDONESIA"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-product kids">
       <span class='link__content'>
         <span>BOTAKHOKI INDONESIA</span>
@@ -4613,8 +4613,8 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="BOTAKHOKI TERBARU"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-product sticker">
       <span class='link__content'>
         <span>BOTAKHOKI TERBARU</span>
@@ -4624,8 +4624,8 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="PREDIKSI BOTAKHOKI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-product tank">
       <span class='link__content'>
         <span>PREDIKSI BOTAKHOKI</span>
@@ -4635,8 +4635,8 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="RESULT BOTAKHOKI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-product mug">
       <span class='link__content'>
         <span>RESULT BOTAKHOKI</span>
@@ -4655,9 +4655,9 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="BOTAKHOKI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
        title="BOTAKHOKI"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
       <span class='link__content'>BOTAKHOKI</span>
     </a>
@@ -4665,9 +4665,9 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="BOTAKHOKI ONLINE"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
        title="BOTAKHOKI ONLINE"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
       <span class='link__content'>BOTAKHOKI ONLINE</span>
     </a>
@@ -4675,9 +4675,9 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="Toto Togel Online"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
        title="Toto Togel Online"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
       <span class='link__content'>Toto Togel Online</span>
     </a>
@@ -4685,9 +4685,9 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="Situs BOTAKHOKI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
        title="Situs BOTAKHOKI"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
       <span class='link__content'>Situs BOTAKHOKI</span>
     </a>
@@ -4695,9 +4695,9 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="BOTAKHOKI Resmi"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
        title="BOTAKHOKI Resmi"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
       <span class='link__content'>BOTAKHOKI Resmi</span>
     </a>
@@ -4705,9 +4705,9 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="BOTAKHOKI Indonesia"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
        title="BOTAKHOKI Indonesia"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
       <span class='link__content'>BOTAKHOKI Indonesia</span>
     </a>
@@ -4715,9 +4715,9 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="BOTAKHOKI Terbaru"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
        title="BOTAKHOKI Terbaru"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
       <span class='link__content'>BOTAKHOKI Terbaru</span>
     </a>
@@ -4725,9 +4725,9 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="Prediksi BOTAKHOKI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
        title="Prediksi BOTAKHOKI"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
       <span class='link__content'>Prediksi BOTAKHOKI</span>
     </a>
@@ -4735,9 +4735,9 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="Result BOTAKHOKI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
        title="Result BOTAKHOKI"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
       <span class='link__content'>Result BOTAKHOKI</span>
     </a>
@@ -4745,9 +4745,9 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="Informasi Togel Online"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
        title="Informasi Togel Online"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
       <span class='link__content'>Informasi Togel Online</span>
     </a>
@@ -4755,9 +4755,9 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="Teknologi BOTAKHOKI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
        title="Teknologi BOTAKHOKI"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
       <span class='link__content'>Teknologi BOTAKHOKI</span>
     </a>
@@ -4765,9 +4765,9 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="Inovasi BOTAKHOKI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
        title="Inovasi BOTAKHOKI"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
       <span class='link__content'>Inovasi BOTAKHOKI</span>
     </a>
@@ -4777,8 +4777,8 @@ Back To Menu
   <a data-rudderstack-event-type="link"
      data-action="click-&gt;rudderstack--link-clicked#track"
      data-link-label="Semua Informasi BOTAKHOKI"
-     data-href="https://$$$$$$$$$$$$$$$$$$$/"
-     href="https://$$$$$$$$$$$$$$$$$$$/"
+     data-href="https://westwallsendbaptist.org/"
+     href="https://westwallsendbaptist.org/"
      class="link m-tray-shop__popular-topics-cta link__cta link__cta--on-dark link--default">
     <span class='link__content'>
       Semua Informasi BOTAKHOKI
@@ -4796,8 +4796,8 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="Tentang BOTAKHOKI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__support-link link--1 link--default link--strong tp-btn--icon">
 
       <span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent">
@@ -4820,8 +4820,8 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="FAQ BOTAKHOKI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__support-link link--1 link--default link--strong tp-btn--icon">
 
       <span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent">
@@ -4844,8 +4844,8 @@ Back To Menu
     <a data-rudderstack-event-type="link"
        data-action="click-&gt;rudderstack--link-clicked#track"
        data-link-label="Informasi BOTAKHOKI"
-       data-href="https://$$$$$$$$$$$$$$$$$$$/"
-       href="https://$$$$$$$$$$$$$$$$$$$/"
+       data-href="https://westwallsendbaptist.org/"
+       href="https://westwallsendbaptist.org/"
        class="link m-tray-shop__support-link link--1 link--default link--strong tp-btn--icon">
 
       <span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent">
@@ -4873,8 +4873,8 @@ Back To Menu
   <a data-rudderstack-event-type="link"
      data-action="click-&gt;rudderstack--link-clicked#track"
      data-link-label="BOTAKHOKI"
-     data-href="https://$$$$$$$$$$$$$$$$$$$/"
-     href="https://$$$$$$$$$$$$$$$$$$$/"
+     data-href="https://westwallsendbaptist.org/"
+     href="https://westwallsendbaptist.org/"
      class="link m-tray-shop__footer-button full-width btn--no-space btn c-link__button tp-btn--medium btn--animated link--default">
 
     <span class='link__content'>
