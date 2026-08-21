@@ -5,7 +5,7 @@
 <html lang="id-ID">
 <head>
 <meta name="google-site-verification" content="52Hudrcrri6B7qQxvxpHEo7izmOsUNH5mwNff55RW5c" />
-<link href="https://$$$$$$$$$$$$$$$$$$$$/" rel="preconnect"/>
+<link href="https://tipsie.org/" rel="preconnect"/>
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
@@ -13,14 +13,14 @@
 <title>BOTAKHOKI - Situs Toto Togel 4D Pertama Terkuat Di Muka Bumi</title>
 <meta name="title" content="BOTAKHOKI - Situs Toto Togel 4D Pertama Terkuat Di Muka Bumi">
 <meta name="robots" content="index, follow, nosnippet">
-<link rel="canonical" href="https://$$$$$$$$$$$$$$$$$$$$/">
-<link rel="amphtml" href="https://botakhoki-7vb.pages.dev/hulk/amp">
-<link rel="alternate" href="https://botakhoki-7vb.pages.dev/hulk/amp">
-<link rel="alternate" href="https://$$$$$$$$$$$$$$$$$$$$/" hreflang="en">
-<link rel="alternate" href="https://$$$$$$$$$$$$$$$$$$$$/" hreflang="x-default">
-<link rel="alternate" hreflang="id-ID" href="https://botakhoki-7vb.pages.dev/hulk/amp">
-<link rel="alternate" hreflang="en-US" href="https://botakhoki-7vb.pages.dev/hulk/amp">
-<link rel="alternate" hreflang="en-SG" href="https://botakhoki-7vb.pages.dev/hulk/amp">
+<link rel="canonical" href="https://tipsie.org/">
+<link rel="amphtml" href="https://amp.tipsie.org/">
+<link rel="alternate" href="https://amp.tipsie.org/">
+<link rel="alternate" href="https://tipsie.org/" hreflang="en">
+<link rel="alternate" href="https://tipsie.org/" hreflang="x-default">
+<link rel="alternate" hreflang="id-ID" href="https://amp.tipsie.org/">
+<link rel="alternate" hreflang="en-US" href="https://amp.tipsie.org/">
+<link rel="alternate" hreflang="en-SG" href="https://amp.tipsie.org/">
 <meta name="publisher" content="BOTAKHOKI">
 <meta name="description" content="BOTAKHOKI menjadi salah satu situs toto togel 4D terkuat di muka bumi dan menjadi pelopor pertama yang menyediakan situs toto togel 4D terbaik dengan memiliki akses jaringan tercepat serta integritas yang tinggi dan deposit cepat.">
 <meta name="keywords" content="BOTAKHOKI"/>
@@ -28,12 +28,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="BOTAKHOKI - Situs Toto Togel 4D Pertama Terkuat Di Muka Bumi">
 <meta name="twitter:description" content="BOTAKHOKI menjadi salah satu situs toto togel 4D terkuat di muka bumi dan menjadi pelopor pertama yang menyediakan situs toto togel 4D terbaik dengan memiliki akses jaringan tercepat serta integritas yang tinggi dan deposit cepat.">
-<meta name="twitter:url" content="https://$$$$$$$$$$$$$$$$$$$$/">
+<meta name="twitter:url" content="https://tipsie.org/">
 <meta name="twitter:image" content="https://img.culanseng.org/storage/images/botakhoki/botakhoki-19.webp">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="BOTAKHOKI">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://$$$$$$$$$$$$$$$$$$$$/">
+<meta property="og:url" content="https://tipsie.org/">
 <meta property="og:title" content="BOTAKHOKI - Situs Toto Togel 4D Pertama Terkuat Di Muka Bumi">
 <meta property="og:description" content="BOTAKHOKI menjadi salah satu situs toto togel 4D terkuat di muka bumi dan menjadi pelopor pertama yang menyediakan situs toto togel 4D terbaik dengan memiliki akses jaringan tercepat serta integritas yang tinggi dan deposit cepat.">
 <meta property="og:image" content="https://img.culanseng.org/storage/images/botakhoki/botakhoki-19.webp">
@@ -641,7 +641,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://$$$$$$$$$$$$$$$$$$$$/",
+  "url": "https://tipsie.org/",
   "name": "BOTAKHOKI - Situs Toto Togel 4D Pertama Terkuat Di Muka Bumi",
   "sku": "8191519631-TT80",
   "description": "BOTAKHOKI menjadi salah satu situs toto togel 4D terkuat di muka bumi dan menjadi pelopor pertama yang menyediakan situs toto togel 4D terbaik dengan memiliki akses jaringan tercepat serta integritas yang tinggi dan deposit cepat.",
@@ -728,25 +728,25 @@
       "@type": "ListItem",
       "position": 1,
       "name": "BOTAKHOKI",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://tipsie.org/"
     },
     {
   "@type": "ListItem",
   "position": 2,
   "name": "BANDAR TOGEL ONLINE",
-  "item": "https://$$$$$$$$$$$$$$$$$$$$/"
+  "item": "https://tipsie.org/"
 },
 {
   "@type": "ListItem",
   "position": 3,
   "name": "BANDAR TOGEL",
-  "item": "https://$$$$$$$$$$$$$$$$$$$$/"
+  "item": "https://tipsie.org/"
 },
 {
   "@type": "ListItem",
   "position": 4,
   "name": "LINK BOTAKHOKI",
-  "item": "https://$$$$$$$$$$$$$$$$$$$$/"
+  "item": "https://tipsie.org/"
 }
   ]
 }
@@ -758,27 +758,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://$$$$$$$$$$$$$$$$$$$$/#org",
+      "@id": "https://tipsie.org/#org",
       "name": "BOTAKHOKI",
-      "url": "https://$$$$$$$$$$$$$$$$$$$$/",
+      "url": "https://tipsie.org/",
       "logo": "https://img.culanseng.org/storage/images/botakhoki/botakhoki-19.webp"
     },
     {
       "@type": "WebSite",
-      "@id": "https://$$$$$$$$$$$$$$$$$$$$/#website",
-      "url": "https://$$$$$$$$$$$$$$$$$$$$/",
+      "@id": "https://tipsie.org/#website",
+      "url": "https://tipsie.org/",
       "name": "BOTAKHOKI",
-      "publisher": { "@id": "https://$$$$$$$$$$$$$$$$$$$$/#org" },
+      "publisher": { "@id": "https://tipsie.org/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://$$$$$$$$$$$$$$$$$$$$/?s={search_term_string}",
+        "target": "https://tipsie.org/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://$$$$$$$$$$$$$$$$$$$$/#app",
+      "@id": "https://tipsie.org/#app",
       "name": "BOTAKHOKI",
       "applicationCategory": "PasienApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -944,7 +944,7 @@
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="BOTAKHOKIlogin" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="BOTAKHOKIlogin" class="nv00-gnb-v4__logo" href="https://$$$$$$$$$$$$$$$$$$$$/">
+       <a an-ac="gnb" an-ca="navigation" an-la="BOTAKHOKIlogin" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="BOTAKHOKIlogin" class="nv00-gnb-v4__logo" href="https://tipsie.org/">
         <img src="https://botakhoki-7vb.pages.dev/botakhoki/c4b6556e-8345-4646-90bb-4fff4631c515.png" alt="logo BOTAKHOKI" width="165" height="60"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -960,7 +960,7 @@
           Cari
          </span>
         </button>
-        <a an-ac="gnb" an-ca="navigation" an-la="cart" an-tr="nv00_gnb-product detail-gnb cart icon-navigation6" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-cart nv00-gnb-v4__utility-btn js-global-cart-btn js-has-carturl" data-cart-url="https://$$$$$$$$$$$$$$$$$$$$/" href="https://$$$$$$$$$$$$$$$$$$$$/" role="button">
+        <a an-ac="gnb" an-ca="navigation" an-la="cart" an-tr="nv00_gnb-product detail-gnb cart icon-navigation6" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-cart nv00-gnb-v4__utility-btn js-global-cart-btn js-has-carturl" data-cart-url="https://tipsie.org/" href="https://tipsie.org/" role="button">
          <span class="hidden">
           Troli
          </span>
@@ -1043,13 +1043,13 @@
 			}'>
           <div class="nv00-gnb-v4__featured-list-inner swiper-wrapper" role="list">
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy z fold7" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy z fold7" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="Galaxy Z Fold7" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/f2507/gnb/Galaxy-Z_Fold7_GNB_L1_Shop_88x88.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Galaxy Z Fold7" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/f2507/gnb/Galaxy-Z_Fold7_GNB_L1_Shop_88x88.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy z fold7" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy z fold7" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              Galaxy Z Fold7
             </a>
            </div>
@@ -1057,145 +1057,145 @@
             <span class="badge-icon badge-icon--label badge-icon--bg-color-blue">
              BARU
             </span>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy s25 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy s25 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="Galaxy S25 FE" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/9/gnb/GNB_Shop_S25_FE_88x88.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Galaxy S25 FE" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/9/gnb/GNB_Shop_S25_FE_88x88.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy s25 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy s25 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              Galaxy S25 FE
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy tab s11 series" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy tab s11 series" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="Galaxy Tab S11 Series" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/9/gnb/GNB_Shop_Tab_S11_88x88.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Galaxy Tab S11 Series" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/9/gnb/GNB_Shop_Tab_S11_88x88.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy tab s11 series" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy tab s11 series" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              Galaxy Tab S11
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy watch ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy watch ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="Galaxy Watch Ultra" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/8/watch-ultra-blue/GNB_L1_Mobile_Galaxy-Watche_Ultra_88x88-id.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Galaxy Watch Ultra" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/8/watch-ultra-blue/GNB_L1_Mobile_Galaxy-Watche_Ultra_88x88-id.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy watch ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy watch ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              Galaxy Watch Ultra
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy buds3 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy buds3 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="Galaxy Buds3 FE" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/9/gnb/GNB_Shop_Buds3_FE_88x88.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Galaxy Buds3 FE" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/9/gnb/GNB_Shop_Buds3_FE_88x88.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy buds3 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:galaxy buds3 fe" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              Galaxy Buds3 FE
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:QLED 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:QLED 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="QLED 4K Smart TV" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/QEF1_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="QLED 4K Smart TV" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/QEF1_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:QLED 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:QLED 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              QLED 4K TV
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:Crystal UHD 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:Crystal UHD 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="Crystal UHD 4K TV" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/UE100F-_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Crystal UHD 4K TV" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/UE100F-_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:Crystal UHD 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:Crystal UHD 4K TV" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              Crystal UHD 4K TV
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:the frame tv" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:the frame tv" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="The Frame TV" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/The_Frame_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="The Frame TV" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/The_Frame_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:the frame tv" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:the frame tv" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              The Frame TV
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:q series soundbar" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:q series soundbar" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="Q-series Soundbar" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/revamp/gnb/shop/GNB_Shop_L1_12_88x88.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Q-series Soundbar" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/revamp/gnb/shop/GNB_Shop_L1_12_88x88.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:q series soundbar" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:q series soundbar" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              Q-series Soundbar
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:Odyssey OLED G5" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:Odyssey OLED G5" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="Odyssey OLED G5" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/G50SF_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Odyssey OLED G5" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/G50SF_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:Odyssey OLED G5" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:Odyssey OLED G5" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              Odyssey OLED G5
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:bespoke ai refrigerator 641l" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:bespoke ai refrigerator 641l" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="Bespoke AI Refrigerator 641L " class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/7/offer/RS90F65A2FST_001_Front_Black-DOI_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Bespoke AI Refrigerator 641L " class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/7/offer/RS90F65A2FST_001_Front_Black-DOI_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:bespoke ai refrigerator 641l" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:bespoke ai refrigerator 641l" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              Bespoke AI Refrigerator 641L
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:front load washer and dryer" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:front load washer and dryer" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="Front-load Washer &amp; Dryer with Ecobubble&trade;" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/WD21_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Front-load Washer &amp; Dryer with Ecobubble&trade;" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/WD21_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:front load washer and dryer" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:front load washer and dryer" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              Front-load Washer &amp; Dryer
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:vacuum cleaner" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:vacuum cleaner" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="Vacuum Cleaner Stick" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/VS80F_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="Vacuum Cleaner Stick" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/VS80F_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:vacuum cleaner" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:vacuum cleaner" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              Vacuum Cleaner Stick
             </a>
            </div>
            <div class="nv00-gnb-v4__featured-item swiper-slide">
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:windfree ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:windfree ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-thumb" href="https://tipsie.org/">
              <div class="image">
               <img alt="WindFree&trade; Ultra AC" class="image__preview lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/WindFree_GNB_L1_88px.png?$LazyLoad_Home_PNG$" role="img"/>
               <img alt="WindFree&trade; Ultra AC" class="image__main lazy-load-man" data-comp-name="image" data-src="//images.samsung.com/is/image/samsung/assets/id/offer/2025/11/gnb/WindFree_GNB_L1_88px.png?$ORIGIN_PNG$" role="img"/>
              </div>
             </a>
-            <a an-ac="gnb" an-ca="navigation" an-la="shop:windfree ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a an-ac="gnb" an-ca="navigation" an-la="shop:windfree ultra" an-tr="nv00_gnb-product detail-l1-navigation2" class="nv00-gnb-v4__featured-item-name" href="https://tipsie.org/">
              WindFree&trade; Ultra AC
             </a>
            </div>
@@ -1232,7 +1232,7 @@
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://tipsie.org/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             BOTAKHOKI
             </span>
@@ -1249,7 +1249,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://tipsie.org/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              LOGIN BOTAKHOKI
             </span>
@@ -1263,7 +1263,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://tipsie.org/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              DAFTAR BOTAKHOKI
             </span>
@@ -1277,7 +1277,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://tipsie.org/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              LINK BOTAKHOKI
             </span>
@@ -1291,7 +1291,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://tipsie.org/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              ALTERNATIF BOTAKHOKI
             </span>
@@ -1305,7 +1305,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://tipsie.org/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SITUS BOTAKHOKI
             </span>
@@ -1338,7 +1338,7 @@
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="BOTAKHOKI" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="BOTAKHOKI. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://botakhoki-7vb.pages.dev/hulk/amp" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="BOTAKHOKI" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="BOTAKHOKI. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://amp.tipsie.org/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1346,10 +1346,10 @@
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://$$$$$$$$$$$$$$$$$$$$/" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+         <a data-linkinfo="https://tipsie.org/" href="https://tipsie.org/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://tipsie.org/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1372,7 +1372,7 @@
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://tipsie.org/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1393,7 +1393,7 @@
            Cari
           </span>
          </button>
-         <a an-ac="gnb" an-ca="navigation" an-la="cart" an-tr="nv00_gnb-product detail-gnb cart icon-navigation6" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-cart nv00-gnb-v4__utility-btn js-global-cart-btn js-has-carturl" data-cart-url="https://$$$$$$$$$$$$$$$$$$$$/" href="https://$$$$$$$$$$$$$$$$$$$$/" role="button">
+         <a an-ac="gnb" an-ca="navigation" an-la="cart" an-tr="nv00_gnb-product detail-gnb cart icon-navigation6" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-cart nv00-gnb-v4__utility-btn js-global-cart-btn js-has-carturl" data-cart-url="https://tipsie.org/" href="https://tipsie.org/" role="button">
           <span class="hidden">
            Troli
           </span>
@@ -1421,26 +1421,26 @@
           </button>
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://$$$$$$$$$$$$$$$$$$$$/'; return false;">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://tipsie.org/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://tipsie.org/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://tipsie.org/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
               </use>
              </svg>
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="orders" an-tr="nv00_gnb-product detail-account-account" aria-label="orders" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="orders" an-tr="nv00_gnb-product detail-account-account" aria-label="orders" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://tipsie.org/" role="menuitem">
              Pesanan
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="Product Registration" an-tr="nv00_gnb-product detail-account-account" aria-label="Product Registration" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="Product Registration" an-tr="nv00_gnb-product detail-account-account" aria-label="Product Registration" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://tipsie.org/" role="menuitem">
              Product&nbsp;Registration
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://tipsie.org/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="BOTAKHOKIlogin" an-tr="nv00_gnb-product detail-account-account" aria-label="BOTAKHOKIlogin" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="BOTAKHOKIlogin" an-tr="nv00_gnb-product detail-account-account" aria-label="BOTAKHOKIlogin" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://tipsie.org/" role="menuitem">
               BOTAKHOKI
             </a>
            </div>
@@ -1472,32 +1472,32 @@
              <p class="user-name">
              </p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://tipsie.org/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
               </use>
              </svg>
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="my page" an-tr="nv00_gnb-product detail-account-account" aria-label="my page" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="my page" an-tr="nv00_gnb-product detail-account-account" aria-label="my page" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://tipsie.org/" role="menuitem">
              Halaman&nbsp;Saya
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="orders" an-tr="nv00_gnb-product detail-account-account" aria-label="orders" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="orders" an-tr="nv00_gnb-product detail-account-account" aria-label="orders" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://tipsie.org/" role="menuitem">
              Pesanan
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="product registration" an-tr="nv00_gnb-product detail-account-account" aria-label="product registration" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="product registration" an-tr="nv00_gnb-product detail-account-account" aria-label="product registration" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://tipsie.org/" role="menuitem">
              Product&nbsp;Registration
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="my rewards" an-tr="nv00_gnb-product detail-account-account" aria-label="my rewards" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="my rewards" an-tr="nv00_gnb-product detail-account-account" aria-label="my rewards" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://tipsie.org/" role="menuitem">
              Rewards&nbsp;Saya
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="wishlist" an-tr="nv00_gnb-product detail-account-account" aria-label="wishlist" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="wishlist" an-tr="nv00_gnb-product detail-account-account" aria-label="wishlist" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://tipsie.org/" role="menuitem">
              Wishlist
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://tipsie.org/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="community" an-tr="nv00_gnb-product detail-account-account" aria-label="community" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="community" an-tr="nv00_gnb-product detail-account-account" aria-label="community" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://tipsie.org/" role="menuitem">
              Komunitas
             </a>
             <a an-ac="gnb" an-ca="account" an-la="logout" an-tr="nv00_gnb-product detail-account-account" aria-label="logout" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu logoutBtn" href="javascript:;" role="menuitem">
@@ -1693,7 +1693,7 @@
          </span>
          <span class="checkbox-v2__label-text">
           Saya telah membaca dan setuju dengan
-          <a class="link-text" href="https://$$$$$$$$$$$$$$$$$$$$/" target="_blank" title="Buka di Tab Baru">
+          <a class="link-text" href="https://tipsie.org/" target="_blank" title="Buka di Tab Baru">
            Kebijakan Privasi
           </a>
           Samsung.com
@@ -2020,10 +2020,10 @@
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://botakhoki-7vb.pages.dev/hulk/amp" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://amp.tipsie.org/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://botakhoki-7vb.pages.dev/hulk/amp" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://amp.tipsie.org/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2525,7 +2525,7 @@
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://tipsie.org/">
              Add to cart
             </a>
            </div>
@@ -2685,7 +2685,7 @@
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://$$$$$$$$$$$$$$$$$$$$/" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://tipsie.org/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -3529,7 +3529,7 @@
        <input id="pdWarrantyLearnMoreUrl" name="pdWarrantyLearnMoreUrl" type="hidden"/>
        <input id="detailNodePath" name="detailNodePath" type="hidden" value="/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy.dynamic"/>
        <input id="checkOutUrl" name="checkOutUrl" type="hidden" value="/id/web/checkout/"/>
-       <input id="cartUrl" name="cartUrl" type="hidden" value="https://$$$$$$$$$$$$$$$$$$$$/"/>
+       <input id="cartUrl" name="cartUrl" type="hidden" value="https://tipsie.org/"/>
        <input id="pdDisplayYn" name="pdDisplayYn" type="hidden" value="Y"/>
        <input id="financeplusUrl" name="financeplusUrl" type="hidden" value="/id/web/offer-grid"/>
        <input id="currentPdpUrl" name="pdpUrl" type="hidden" value="/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/"/>
@@ -4421,8 +4421,8 @@
     <!-- CTA neon -->
     <div class="cta-gold-section">
         <div class="cta-buttons-gold">
-            <a href="https://botakhoki-7vb.pages.dev/hulk/amp" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-            <a href="https://botakhoki-7vb.pages.dev/hulk/amp" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+            <a href="https://amp.tipsie.org/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+            <a href="https://amp.tipsie.org/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
         </div>
     </div>
 
@@ -4540,7 +4540,7 @@
        </section>
        <!-- N -->
        <script data-id="aac44b1f-0962-428e-af28-1f4e53562d11" data-object-type="Product" data-type="seo" type="application/ld+json">
-        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://$$$$$$$$$$$$$$$$$$$$/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","name":"Galaxy A07","image":"https://img.culanseng.org/storage/images/botakhoki/botakhoki-19.webp","description":"BOTAKHOKI - Lihat keunggulan dan fitur lengkap produk ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"H1-FE165SDF181","offers":{"@type":"Offer","url":"https://$$$$$$$$$$$$$$$$$$$$/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
+        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://tipsie.org/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","name":"Galaxy A07","image":"https://img.culanseng.org/storage/images/botakhoki/botakhoki-19.webp","description":"BOTAKHOKI - Lihat keunggulan dan fitur lengkap produk ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"H1-FE165SDF181","offers":{"@type":"Offer","url":"https://tipsie.org/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
        </script>
        <!--googleoff: all true-->
        <div class="sdf-component-templates" id="sg-pdh-dynamic-template-assembly">
@@ -4587,7 +4587,7 @@
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://botakhoki-7vb.pages.dev/hulk/amp" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://amp.tipsie.org/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -5789,7 +5789,7 @@
            {{deliveryResult.subText}}
            <br/>
            Standard installation charges may apply.
-           <a aria-label="Link Title" class="option-result__text-link" href="https://$$$$$$$$$$$$$$$$$$$$/" target="_blank">
+           <a aria-label="Link Title" class="option-result__text-link" href="https://tipsie.org/" target="_blank">
             Click here
            </a>
            for more details.
@@ -6415,7 +6415,7 @@
     <!-- Article Content -->
     <div class="highlight-box">
   <p class="isSelectedEnd" style="text-align: justify;">BOTAKHOKI menjadi salah satu situs toto togel 4d terkuat di muka bumi dan menjadi pelopor pertama yang menyediakan situs toto togel 4d terbaik dengan memiliki akses jaringan tercepat serta integritas yang tinggi dan deposit cepat.</p>
-<p class="isSelectedEnd" style="text-align: justify;">BOTAKHOKI dikenal sebagai platform togel online yang menyediakan akses mudah melalui <a href="https://$$$$$$$$$$$$$$$$$$$$/">link utama BOTAKHOKI</a>.desktop maupun smartphone. Dengan sistem yang responsif, pemain dapat menikmati berbagai pasaran favorit kapan saja.</p>
+<p class="isSelectedEnd" style="text-align: justify;">BOTAKHOKI dikenal sebagai platform togel online yang menyediakan akses mudah melalui <a href="https://tipsie.org/">link utama BOTAKHOKI</a>.desktop maupun smartphone. Dengan sistem yang responsif, pemain dapat menikmati berbagai pasaran favorit kapan saja.</p>
 <p class="isSelectedEnd" style="text-align: justify;">BOTAKHOKI menawarkan akses ke berbagai pasaran togel internasional melalui website yang ringan, cepat, dan mudah diakses. Platform ini dirancang untuk memberikan pengalaman penggunaan yang lebih nyaman.</p>
 <p class="isSelectedEnd" style="text-align: justify;">BOTAKHOKI merupakan platform togel online yang terus mengembangkan kualitas layanan dan kemudahan akses bagi para pengguna. Dengan berbagai pilihan pasaran serta tampilan website yang modern, pemain dapat menikmati pengalaman bermain yang lebih praktis.</p>
    
@@ -6877,7 +6877,7 @@
      <div class="breadcrumb__inner">
       <ul class="breadcrumb__path" role="list">
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://$$$$$$$$$$$$$$$$$$$$/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://tipsie.org/">
          <span class="breadcrumb__text-desktop">
           BOTAKHOKI <span style="margin-left: 15px;">></span>
          </span>
@@ -6892,7 +6892,7 @@
        </li>
        <li role="listitem">
        
-<a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://$$$$$$$$$$$$$$$$$$$$/">
+<a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://tipsie.org/">
   <span class="breadcrumb__text-desktop">
     PREDIKSI BOTAKHOKI <span style="margin-left: 15px;">></span>
   </span>
@@ -6906,7 +6906,7 @@
 </svg>
 </li>
 <li role="listitem">
-  <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://$$$$$$$$$$$$$$$$$$$$/">
+  <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://tipsie.org/">
     <span class="breadcrumb__text-desktop">
       LINK BOTAKHOKI
     </span>
@@ -6924,7 +6924,7 @@
       </ul>
      </div>
      <script data-id="815b4f0e-baa9-42cc-b1f9-b4b995da3ffb" data-object-type="BreadcrumbList" data-type="seo" type="application/ld+json">
-      {"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://$$$$$$$$$$$$$$$$$$$$/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#breadcrumb","itemListElement":[{"@type":"ListItem","name":"Home","item":"https://$$$$$$$$$$$$$$$$$$$$/","position":1},{"@type":"ListItem","name":"Mobile","item":"https://$$$$$$$$$$$$$$$$$$$$/","position":2},{"@type":"ListItem","name":"Smartphones","item":"https://$$$$$$$$$$$$$$$$$$$$/","position":3},{"@type":"ListItem","name":"Galaxy A","item":"https://$$$$$$$$$$$$$$$$$$$$/galaxy-a/","position":4},{"@type":"ListItem","name":"Galaxy A07","item":"","position":5}]}
+      {"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://tipsie.org/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#breadcrumb","itemListElement":[{"@type":"ListItem","name":"Home","item":"https://tipsie.org/","position":1},{"@type":"ListItem","name":"Mobile","item":"https://tipsie.org/","position":2},{"@type":"ListItem","name":"Smartphones","item":"https://tipsie.org/","position":3},{"@type":"ListItem","name":"Galaxy A","item":"https://tipsie.org/galaxy-a/","position":4},{"@type":"ListItem","name":"Galaxy A07","item":"","position":5}]}
      </script>
     </nav>
     <div class="pd-g-manufacturer-info-popup">
@@ -6983,32 +6983,32 @@
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://botakhoki-7vb.pages.dev/hulk/amp">
+                  <a class="footer-category__link" href="https://amp.tipsie.org/">
                     BOTAKHOKI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     LOGIN BOTAKHOKI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     DAFTAR BOTAKHOKI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     BOTAKHOKI Login
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     SITUS BOTAKHOKI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     ALTERNATIF BOTAKHOKI
                   </a>
                 </li>
@@ -7034,37 +7034,37 @@
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://botakhoki-7vb.pages.dev/hulk/amp">
+                  <a class="footer-category__link" href="https://amp.tipsie.org/">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Panduan pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Panduan Booking
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Program Layanan
                   </a>
                 </li>
@@ -7090,37 +7090,37 @@
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://botakhoki-7vb.pages.dev/hulk/amp">
+                  <a class="footer-category__link" href="https://amp.tipsie.org/">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Responsible Kesehatan
                   </a>
                 </li>
@@ -7146,32 +7146,32 @@
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://botakhoki-7vb.pages.dev/hulk/amp">
+                  <a class="footer-category__link" href="https://amp.tipsie.org/">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://botakhoki-7vb.pages.dev/hulk/amp">
+                  <a class="footer-category__link" href="https://amp.tipsie.org/">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://botakhoki-7vb.pages.dev/hulk/amp">
+                  <a class="footer-category__link" href="https://amp.tipsie.org/">
                     Lupa Password
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Panduan Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Program VIP
                   </a>
                 </li>
@@ -7198,22 +7198,22 @@
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Panduan Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Panduan Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Kontak Resmi
                   </a>
                 </li>
@@ -7237,22 +7237,22 @@
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://botakhoki-7vb.pages.dev/hulk/amp">
+                  <a class="footer-category__link" href="https://amp.tipsie.org/">
                     Tentang BOTAKHOKI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Kenapa Pilih BOTAKHOKI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                  <a class="footer-category__link" href="https://tipsie.org/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -7272,7 +7272,7 @@
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a class="footer-language__anchor" href="https://tipsie.org/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -7280,7 +7280,7 @@
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://$$$$$$$$$$$$$$$$$$$$/">
+            <a class="footer-language__anchor" href="https://tipsie.org/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -7288,17 +7288,17 @@
           <div class="footer-terms">
             <ul class="footer-terms__list" role="list">
               <li class="footer-terms__item" role="listitem">
-                <a class="footer-terms__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                <a class="footer-terms__link" href="https://tipsie.org/">
                   Privasi
                 </a>
               </li>
               <li class="footer-terms__item" role="listitem">
-                <a class="footer-terms__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                <a class="footer-terms__link" href="https://tipsie.org/">
                   Legal
                 </a>
               </li>
               <li class="footer-terms__item" role="listitem">
-                <a class="footer-terms__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                <a class="footer-terms__link" href="https://tipsie.org/">
                   Peta Situs
                 </a>
               </li>
@@ -7311,28 +7311,28 @@
             </span>
             <ul class="footer-sns__list" role="list">
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://$$$$$$$$$$$$$$$$$$$$/" rel="noreferrer noopener" target="_blank" aria-label="Facebook : Buka di Tab Baru">
+                <a class="footer-sns__link" href="https://tipsie.org/" rel="noreferrer noopener" target="_blank" aria-label="Facebook : Buka di Tab Baru">
                   <svg class="icon" focusable="false">
                     <use href="#facebook-bold" xlink:href="#facebook-bold"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://$$$$$$$$$$$$$$$$$$$$/" rel="noreferrer noopener" target="_blank" aria-label="Twitter : Buka di Tab Baru">
+                <a class="footer-sns__link" href="https://tipsie.org/" rel="noreferrer noopener" target="_blank" aria-label="Twitter : Buka di Tab Baru">
                   <svg class="icon" focusable="false">
                     <use href="#twitter-bold" xlink:href="#twitter-bold"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://$$$$$$$$$$$$$$$$$$$$/" rel="noreferrer noopener" target="_blank" aria-label="Instagram : Buka di Tab Baru">
+                <a class="footer-sns__link" href="https://tipsie.org/" rel="noreferrer noopener" target="_blank" aria-label="Instagram : Buka di Tab Baru">
                   <svg class="icon" focusable="false">
                     <use href="#instagram-bold" xlink:href="#instagram-bold"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://$$$$$$$$$$$$$$$$$$$$/" rel="noreferrer noopener" target="_blank" aria-label="Youtube : Buka di Tab Baru">
+                <a class="footer-sns__link" href="https://tipsie.org/" rel="noreferrer noopener" target="_blank" aria-label="Youtube : Buka di Tab Baru">
                   <svg class="icon" focusable="false">
                     <use href="#youtube-bold" xlink:href="#youtube-bold"></use>
                   </svg>
@@ -7914,7 +7914,7 @@
          <div class="tariff-popup__disclaimer-wrap">
           <div class="tariff-popup__disclaimer">
            Anda dapat menemukan informasi tentang pengolahan data pribadi melalui link
-           <a href="https://$$$$$$$$$$$$$$$$$$$$/" target="_blank" title="Open in a new window">
+           <a href="https://tipsie.org/" target="_blank" title="Open in a new window">
             Kebijakan privasi
            </a>
            .
@@ -8024,7 +8024,7 @@
            Akses menu Tukar Tambah di aplikasi Samsung Gift Indonesia atau unduh aplikasi SS.com Trade In untuk memeriksakan ponsel pintar Anda. Setelah ponsel Anda lolos uji, IMEI perangkat lama Anda akan tercatat dalam basis data kami, sehingga Anda dapat menikmati diskon tukar tambah khusus.
           </p>
           <p class="trade-in-popup__imei-desc">
-           <a href="https://$$$$$$$$$$$$$$$$$$$$/" target="_blank" title="Buka di Tab Baru">
+           <a href="https://tipsie.org/" target="_blank" title="Buka di Tab Baru">
             SAMSUNG TRADE IN
            </a>
           </p>
@@ -8137,12 +8137,12 @@
            1. Download App SS.com
           </p>
           <div class="trade-in-popup__procedure-link-wrap">
-           <a class="trade-in-popup__procedure-link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+           <a class="trade-in-popup__procedure-link" href="https://tipsie.org/">
             <div class="image">
              <img alt="google play link" class="image__main lazy-load" data-comp-name="image" data-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-trade-in-down-google.png" role="img"/>
             </div>
            </a>
-           <a class="trade-in-popup__procedure-link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+           <a class="trade-in-popup__procedure-link" href="https://tipsie.org/">
             <div class="image">
              <img alt="app store link" class="image__main lazy-load" data-comp-name="image" data-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-trade-in-down-apple.png" role="img"/>
             </div>
@@ -8153,12 +8153,12 @@
            <br/>
            Gunakan App
            <br/>
-           <a aria-label="Open in a new window" href="https://$$$$$$$$$$$$$$$$$$$$/" target="_blank" title="Buka di Tab Baru">
+           <a aria-label="Open in a new window" href="https://tipsie.org/" target="_blank" title="Buka di Tab Baru">
             Samsung Gift Indonesia
            </a>
           </p>
           <div class="trade-in-popup__procedure-link-wrap">
-           <a class="trade-in-popup__procedure-link" href="https://$$$$$$$$$$$$$$$$$$$$/" target="_blank" title="Buka di Tab Baru">
+           <a class="trade-in-popup__procedure-link" href="https://tipsie.org/" target="_blank" title="Buka di Tab Baru">
             <div class="image">
              <img alt="samsung gift link" class="image__main lazy-load" data-comp-name="image" data-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/icon-trade-in-down-gift.png" role="img"/>
             </div>
@@ -8612,7 +8612,7 @@
       </div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://$$$$$$$$$$$$$$$$$$$$/" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://tipsie.org/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -8795,7 +8795,7 @@
           </li>
          </ul>
          <div class="sc-learn-more-popup__cta">
-          <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://$$$$$$$$$$$$$$$$$$$$/" target="_blank">
+          <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://tipsie.org/" target="_blank">
            See all benefits
            <svg aria-hidden="true" class="icon" focusable="false">
             <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -8893,7 +8893,7 @@
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$/" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://tipsie.org/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8916,7 +8916,7 @@
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$/" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://tipsie.org/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8994,11 +8994,11 @@
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://$$$$$$$$$$$$$$$$$$$$/" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://tipsie.org/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$/" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://tipsie.org/" role="button">
         </a>
        </div>
       </div>
@@ -9064,12 +9064,12 @@
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://$$$$$$$$$$$$$$$$$$$$/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://tipsie.org/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://$$$$$$$$$$$$$$$$$$$$/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://tipsie.org/" role="button">
            Yakin
           </a>
          </div>
@@ -9094,7 +9094,7 @@
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$/">
+        <a class="cta cta--contained cta--emphasis" href="https://tipsie.org/">
          Best&auml;tigen
         </a>
        </div>
@@ -9117,7 +9117,7 @@
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$/" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://tipsie.org/" title="">
          Best&auml;tigen
         </a>
        </div>
@@ -9168,12 +9168,12 @@
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://$$$$$$$$$$$$$$$$$$$$/" role="button">
+          <a class="cta cta--outlined cta--black" href="https://tipsie.org/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://$$$$$$$$$$$$$$$$$$$$/" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://tipsie.org/" role="button">
            Yakin
           </a>
          </div>
@@ -10526,7 +10526,7 @@
    <script src="https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-wishlist-popup/clientlibs/site.min.648f96f9e6904235937a56177a4f9cb4.js"></script>
    <script src="https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-eip-popup/clientlibs/site.min.dd4327a6471278074a327fbfe515c7a8.js"></script>
    <script data-id="e775dc49-187c-4bdf-8f92-83bca5908c6f" data-object-type="WebPage" data-type="seo" type="application/ld+json">
-    {"@context":"https://schema.org","@type":"WebPage","name":"BOTAKHOKI - Situs Toto Togel 4D Pertama Terkuat Di Muka Bumi","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"BOTAKHOKI menjadi salah satu situs toto togel 4D terkuat di muka bumi dan menjadi pelopor pertama yang menyediakan situs toto togel 4D terbaik dengan memiliki akses jaringan tercepat serta integritas yang tinggi dan deposit cepat.","url":"https://$$$$$$$$$$$$$$$$$$$$/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"}
+    {"@context":"https://schema.org","@type":"WebPage","name":"BOTAKHOKI - Situs Toto Togel 4D Pertama Terkuat Di Muka Bumi","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"BOTAKHOKI menjadi salah satu situs toto togel 4D terkuat di muka bumi dan menjadi pelopor pertama yang menyediakan situs toto togel 4D terbaik dengan memiliki akses jaringan tercepat serta integritas yang tinggi dan deposit cepat.","url":"https://tipsie.org/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"}
    </script>
     <script type="application/ld+json">
 {
@@ -11076,8 +11076,8 @@
       </div>
       <div class="BOTAKHOKI-popup-ticker"><i></i><span class="viewport"><span class="track"><span>Jalur akses cepat</span><span>Promo aktif</span><span>Dukungan responsif</span><span>Update harian</span><span>Jalur akses cepat</span><span>Promo aktif</span><span>Dukungan responsif</span><span>Update harian</span></span></span></div>
       <div class="BOTAKHOKI-popup-actions">
-        <a href="https://botakhoki-7vb.pages.dev/hulk/amp" class="BOTAKHOKI-popup-btn login">Login</a>
-        <a href="https://botakhoki-7vb.pages.dev/hulk/amp" class="BOTAKHOKI-popup-btn register">Daftar</a>
+        <a href="https://amp.tipsie.org/" class="BOTAKHOKI-popup-btn login">Login</a>
+        <a href="https://amp.tipsie.org/" class="BOTAKHOKI-popup-btn register">Daftar</a>
       </div>
       <div class="BOTAKHOKI-popup-info">
         <div class="BOTAKHOKI-popup-info-title" id="BOTAKHOKIPopupInfoTitle">Informasi BOTAKHOKI</div>
@@ -11096,7 +11096,7 @@
 
 <button class="BOTAKHOKI-popup-reopen" id="BOTAKHOKIPopupReopen" type="button">Buka Promo</button>
 
-<a class="BOTAKHOKI-sticky-livechat" href="https://botakhoki-7vb.pages.dev/hulk/amp" aria-label="Live chat BOTAKHOKI">
+<a class="BOTAKHOKI-sticky-livechat" href="https://amp.tipsie.org/" aria-label="Live chat BOTAKHOKI">
   <span class="icon"><img src="https://botakhoki-7vb.pages.dev/botakhoki/c4b6556e-8345-4646-90bb-4fff4631c515.png" alt="BOTAKHOKI"></span>
   <span class="status-dot"></span>
   <span class="label">LIVECHAT 24 JAM</span>
