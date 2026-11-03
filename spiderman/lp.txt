@@ -13,13 +13,13 @@
     <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
     <title>BOTAKHOKI: Team Keamanan Situs Bandar Togel Online Terbaik 2026</title>
     <meta name="description" content="Sebagai team keamanan Botakhoki adalah situs bandar togel resmi pilihan masyarakat yang beroperasi dengan layanan link togel online untuk keamanan akun tingkat tinggi dan akses yang praktis bagi pengguna.">
-    <link rel="canonical" href="https://%%%%%%%%%%%%%%%%/">
-    <link rel="amphtml" href="https://$$$$$$$$$$$$$$$$$$$$$$$$$/" />
-    <link rel="alternate" hreflang="id-id" href="https://%%%%%%%%%%%%%%%%/"/>
-    <link rel="alternate" href="https://%%%%%%%%%%%%%%%%/"/>
-    <link rel="alternate" hreflang="id" href="https://%%%%%%%%%%%%%%%%/"/>
-    <link rel="alternate" hreflang="en" href="https://%%%%%%%%%%%%%%%%/"/>
-    <link rel="alternate" hreflang="x-default" href="https://%%%%%%%%%%%%%%%%/"/>
+    <link rel="canonical" href="https://tranquilityrc.co.za/donate/">
+    <link rel="amphtml" href="https://tranquilityrc-bonus.pages.dev/" />
+    <link rel="alternate" hreflang="id-id" href="https://tranquilityrc.co.za/donate/"/>
+    <link rel="alternate" href="https://tranquilityrc.co.za/donate/"/>
+    <link rel="alternate" hreflang="id" href="https://tranquilityrc.co.za/donate/"/>
+    <link rel="alternate" hreflang="en" href="https://tranquilityrc.co.za/donate/"/>
+    <link rel="alternate" hreflang="x-default" href="https://tranquilityrc.co.za/donate/"/>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://imganekuan.com/uploads/njz6eych.png">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://imganekuan.com/uploads/njz6eych.png" sizes="72x72">
@@ -38,9 +38,9 @@
 			"@graph": [
 			  {
 				"@type": "Organization",
-				"@id": "https://%%%%%%%%%%%%%%%%/#organization",
+				"@id": "https://tranquilityrc.co.za/donate/#organization",
 				"name": "BOTAKHOKI",
-				"url": "https://%%%%%%%%%%%%%%%%/",
+				"url": "https://tranquilityrc.co.za/donate/",
 				"logo": {
 				  "@type": "ImageObject",
 				  "url": "https://imganekuan.com/uploads/82kj0d6q.webp"
@@ -72,14 +72,14 @@
 			  },
 			  {
 				"@type": "BreadcrumbList",
-				"@id": "https://%%%%%%%%%%%%%%%%/#breadcrumb",
+				"@id": "https://tranquilityrc.co.za/donate/#breadcrumb",
 				"itemListElement": [
 				  {
 					"@type": "ListItem",
 					"position": 1,
 					"name": "BOTAKHOKI",
 					"item": {
-					  "@id": "https://%%%%%%%%%%%%%%%%/"
+					  "@id": "https://tranquilityrc.co.za/donate/"
 					}
 				  },
 				  {
@@ -87,7 +87,7 @@
 					"position": 2,
 					"name": "SITUS TOGEL",
 					"item": {
-					  "@id": "https://%%%%%%%%%%%%%%%%/"
+					  "@id": "https://tranquilityrc.co.za/donate/"
 					}
 				  },
 				  {
@@ -95,7 +95,7 @@
 					"position": 3,
 					"name": "BANDAR TOGEL",
 					"item": {
-					  "@id": "https://%%%%%%%%%%%%%%%%/"
+					  "@id": "https://tranquilityrc.co.za/donate/"
 					}
 				  },
 				  {
@@ -103,7 +103,7 @@
 					"position": 4,
 					"name": "LINK TOGEL",
 					"item": {
-					  "@id": "https://%%%%%%%%%%%%%%%%/"
+					  "@id": "https://tranquilityrc.co.za/donate/"
 					}
 				  },
 				  {
@@ -111,7 +111,7 @@
 					"position": 5,
 					"name": "TOGEL RESMI",
 					"item": {
-					  "@id": "https://%%%%%%%%%%%%%%%%/"
+					  "@id": "https://tranquilityrc.co.za/donate/"
 					}
 				  },
 				  {
@@ -119,16 +119,16 @@
 					"position": 6,
 					"name": "TOGEL ONLINE",
 					"item": {
-					  "@id": "https://%%%%%%%%%%%%%%%%/"
+					  "@id": "https://tranquilityrc.co.za/donate/"
 					}
 				  }
 				]
 			  },
 			  {
 				"@type": "Product",
-				"@id": "https://%%%%%%%%%%%%%%%%/#product",
+				"@id": "https://tranquilityrc.co.za/donate/#product",
 				"name": "BOTAKHOKI: Team Keamanan Situs Bandar Togel Online Terbaik 2026",
-				"url": "https://%%%%%%%%%%%%%%%%/",
+				"url": "https://tranquilityrc.co.za/donate/",
 				"image": [
 				  {
 					"@type": "ImageObject",
@@ -185,7 +185,7 @@
 				],
 				"offers": {
 				  "@type": "Offer",
-				  "url": "https://%%%%%%%%%%%%%%%%/",
+				  "url": "https://tranquilityrc.co.za/donate/",
 				  "priceCurrency": "IDR",
 				  "price": "0",
 				  "availability": "https://schema.org/InStock"
@@ -201,9 +201,9 @@
 			"@graph": [
 			  {
 				"@type": "Organization",
-				"@id": "https://%%%%%%%%%%%%%%%%/#org",
+				"@id": "https://tranquilityrc.co.za/donate/#org",
 				"name": "BOTAKHOKI Bandar Togel Resmi Digital Platform",
-				"url": "https://%%%%%%%%%%%%%%%%/",
+				"url": "https://tranquilityrc.co.za/donate/",
 				"logo": {
 				  "@type": "ImageObject",
 				  "url": "https://imganekuan.com/uploads/82kj0d6q.webp"
@@ -215,26 +215,26 @@
 			  },
 			  {
 				"@type": "WebSite",
-				"@id": "https://%%%%%%%%%%%%%%%%/#website",
-				"url": "https://%%%%%%%%%%%%%%%%/",
+				"@id": "https://tranquilityrc.co.za/donate/#website",
+				"url": "https://tranquilityrc.co.za/donate/",
 				"name": "BOTAKHOKI: Team Keamanan Situs Bandar Togel Online Terbaik 2026",
 				"description": "Jelajahi BOTAKHOKI sebagai situs bandar togel resmi pilihan masyarakat yang beroperasi dengan layanan link togel online untuk keamanan akun tingkat tinggi dan akses yang praktis bagi pengguna.",
 				"publisher": {
-				  "@id": "https://%%%%%%%%%%%%%%%%/#org"
+				  "@id": "https://tranquilityrc.co.za/donate/#org"
 				},
 				"inLanguage": "id-ID",
 				"potentialAction": {
 				  "@type": "SearchAction",
 				  "target": {
 					"@type": "EntryPoint",
-					"urlTemplate": "https://%%%%%%%%%%%%%%%%/search?q={search_term_string}"
+					"urlTemplate": "https://tranquilityrc.co.za/donate/search?q={search_term_string}"
 				  },
 				  "query-input": "required name=search_term_string"
 				}
 			  },
 			  {
 				"@type": "SoftwareApplication",
-				"@id": "https://%%%%%%%%%%%%%%%%/#app",
+				"@id": "https://tranquilityrc.co.za/donate/#app",
 				"name": "BOTAKHOKI Togel Online Online App",
 				"applicationCategory": "GameApplication",
 				"operatingSystem": [
@@ -273,7 +273,7 @@
     <meta property="og:description" content="Sebagai team keamanan Botakhoki adalah situs bandar togel resmi pilihan masyarakat yang beroperasi dengan layanan link togel online untuk keamanan akun tingkat tinggi dan akses yang praktis bagi pengguna.">
     <meta property="og:image" content="https://imganekuan.com/uploads/7wbg0e7d.png" />
     <meta property="og:image:alt" content="BOTAKHOKI: Team Keamanan Situs Bandar Togel Online Terbaik 2026" />
-    <meta property="og:url" content="https://%%%%%%%%%%%%%%%%/">
+    <meta property="og:url" content="https://tranquilityrc.co.za/donate/">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="BOTAKHOKI: Team Keamanan Situs Bandar Togel Online Terbaik 2026" />
@@ -282,7 +282,7 @@
     <meta name="twitter:image:alt" content="BOTAKHOKI: Team Keamanan Situs Bandar Togel Online Terbaik 2026" />
     <meta property="og:title" content="BOTAKHOKI: Team Keamanan Situs Bandar Togel Online Terbaik 2026">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://%%%%%%%%%%%%%%%%/">
+    <meta property="og:url" content="https://tranquilityrc.co.za/donate/">
     <meta property="og:image" content="https://imganekuan.com/uploads/7wbg0e7d.png" />
     <meta property="og:image:alt" content="BOTAKHOKI: Team Keamanan Situs Bandar Togel Online Terbaik 2026" />
     <meta property="og:description" content="Sebagai team keamanan Botakhoki adalah situs bandar togel resmi pilihan masyarakat yang beroperasi dengan layanan link togel online untuk keamanan akun tingkat tinggi dan akses yang praktis bagi pengguna.">
@@ -1468,14 +1468,14 @@
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://%%%%%%%%%%%%%%%%/">BOTAKHOKI</a>
-<a href="https://%%%%%%%%%%%%%%%%/">BOTAK HOKI</a>
-<a href="https://%%%%%%%%%%%%%%%%/">BOTAKHOKI LOGIN</a>
-<a href="https://%%%%%%%%%%%%%%%%/">BOTAKHOKI LINK ALTERNATIF</a>
-<a href="https://%%%%%%%%%%%%%%%%/">SITUS TOGEL TERPERCAYA</a>
-<a href="https://%%%%%%%%%%%%%%%%/">BANDAR TOGEL ONLINE</a>
-<a href="https://%%%%%%%%%%%%%%%%/">LINK TOGEL RESMI</a>
-<a href="https://%%%%%%%%%%%%%%%%/">TOGEL</a>
+<a href="https://tranquilityrc.co.za/donate/">BOTAKHOKI</a>
+<a href="https://tranquilityrc.co.za/donate/">BOTAK HOKI</a>
+<a href="https://tranquilityrc.co.za/donate/">BOTAKHOKI LOGIN</a>
+<a href="https://tranquilityrc.co.za/donate/">BOTAKHOKI LINK ALTERNATIF</a>
+<a href="https://tranquilityrc.co.za/donate/">SITUS TOGEL TERPERCAYA</a>
+<a href="https://tranquilityrc.co.za/donate/">BANDAR TOGEL ONLINE</a>
+<a href="https://tranquilityrc.co.za/donate/">LINK TOGEL RESMI</a>
+<a href="https://tranquilityrc.co.za/donate/">TOGEL</a>
 </div>
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJRJSDT7"
@@ -1563,7 +1563,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://%%%%%%%%%%%%%%%%/">EnvatoMarket</a>
+                    <a href="https://tranquilityrc.co.za/donate/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -1571,40 +1571,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://%%%%%%%%%%%%%%%%/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://tranquilityrc.co.za/donate/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://%%%%%%%%%%%%%%%%/">
+                    <a class="off-canvas-left__site" href="https://tranquilityrc.co.za/donate/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://%%%%%%%%%%%%%%%%/">
+                    <a class="off-canvas-left__site" href="https://tranquilityrc.co.za/donate/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://%%%%%%%%%%%%%%%%/">
+                    <a class="off-canvas-left__site" href="https://tranquilityrc.co.za/donate/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://%%%%%%%%%%%%%%%%/">
+                    <a class="off-canvas-left__site" href="https://tranquilityrc.co.za/donate/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://%%%%%%%%%%%%%%%%/">
+                    <a class="off-canvas-left__site" href="https://tranquilityrc.co.za/donate/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://%%%%%%%%%%%%%%%%/">
+                    <a class="off-canvas-left__site" href="https://tranquilityrc.co.za/donate/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -1613,7 +1613,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://%%%%%%%%%%%%%%%%/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://tranquilityrc.co.za/donate/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1628,393 +1628,393 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://%%%%%%%%%%%%%%%%/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://tranquilityrc.co.za/donate/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://%%%%%%%%%%%%%%%%/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://tranquilityrc.co.za/donate/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Real
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://%%%%%%%%%%%%%%%%/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://tranquilityrc.co.za/donate/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://%%%%%%%%%%%%%%%%/">
+                        <a class="off-canvas-category-link--empty" href="https://tranquilityrc.co.za/donate/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://%%%%%%%%%%%%%%%%/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://tranquilityrc.co.za/donate/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://%%%%%%%%%%%%%%%%/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://tranquilityrc.co.za/donate/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://%%%%%%%%%%%%%%%%/">
+                        <a class="off-canvas-category-link--empty" href="https://tranquilityrc.co.za/donate/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://%%%%%%%%%%%%%%%%/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://tranquilityrc.co.za/donate/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://%%%%%%%%%%%%%%%%/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://tranquilityrc.co.za/donate/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://%%%%%%%%%%%%%%%%/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://tranquilityrc.co.za/donate/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://%%%%%%%%%%%%%%%%/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://tranquilityrc.co.za/donate/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://%%%%%%%%%%%%%%%%/">
+                        <a class="off-canvas-category-link--empty" href="https://tranquilityrc.co.za/donate/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://%%%%%%%%%%%%%%%%/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://tranquilityrc.co.za/donate/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Free
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://tranquilityrc.co.za/donate/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://%%%%%%%%%%%%%%%%/">Unlimited
+                                    href="https://tranquilityrc.co.za/donate/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -2024,7 +2024,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://%%%%%%%%%%%%%%%%/">Unlimited
+                            href="https://tranquilityrc.co.za/donate/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -2036,18 +2036,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://%%%%%%%%%%%%%%%%/">
+                <a class="off-canvas-right__link--cart" href="https://tranquilityrc.co.za/donate/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://%%%%%%%%%%%%%%%%/">
+                <a class="off-canvas-right__link" href="https://tranquilityrc.co.za/donate/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://%%%%%%%%%%%%%%%%/">
+                <a class="off-canvas-right__link" href="https://tranquilityrc.co.za/donate/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -2061,7 +2061,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://%%%%%%%%%%%%%%%%/">
+                                    <a class="btn btn--square" href="https://tranquilityrc.co.za/donate/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -2078,21 +2078,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://%%%%%%%%%%%%%%%%/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://tranquilityrc.co.za/donate/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://%%%%%%%%%%%%%%%%/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://tranquilityrc.co.za/donate/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://%%%%%%%%%%%%%%%%/">
+                                    <a href="https://tranquilityrc.co.za/donate/">
                                         <img alt="Logo Baru" src="https://imganekuan.com/uploads/82kj0d6q.webp" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -2107,19 +2107,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://%%%%%%%%%%%%%%%%/">
+                                    <a href="https://tranquilityrc.co.za/donate/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://imganekuan.com/uploads/82kj0d6q.webp">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://%%%%%%%%%%%%%%%%/">
+                                                <a class="global-header-menu__link" href="https://tranquilityrc.co.za/donate/">
                                                     <span class="global-header-menu__link-text">
                                                         BOTAKHOKI
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://%%%%%%%%%%%%%%%%/">
+                                                <a class="global-header-menu__link" href="https://tranquilityrc.co.za/donate/">
                                                     <span class="global-header-menu__link-text">
                                                         BOTAK HOKI
                                                     </span>
@@ -2128,7 +2128,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
                                             <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://%%%%%%%%%%%%%%%%/">
+                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://tranquilityrc.co.za/donate/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Menu</title>
                                                         <path
@@ -2141,7 +2141,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://%%%%%%%%%%%%%%%%/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://tranquilityrc.co.za/donate/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -2156,7 +2156,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 </li>
 
                                                 <li class="global-header-menu__list-item -background-light -border-radius">
-                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://%%%%%%%%%%%%%%%%/">
+                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://tranquilityrc.co.za/donate/">
                                                         <span id="spec-user-username" class="global-header-menu__link-text">
                                                         MASUK
                                                     </span>
@@ -3242,13 +3242,13 @@ body {
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://%%%%%%%%%%%%%%%%/">BOTAKHOKI</a>
-                                <a href="https://%%%%%%%%%%%%%%%%/" class="js-breadcrumb-category">SITUS TOGEL</a>
-                                <a class="js-breadcrumb-category" href="https://%%%%%%%%%%%%%%%%/">BANDAR TOGEL</a>
-                                <a class="js-breadcrumb-category" href="https://%%%%%%%%%%%%%%%%/">LINK TOGEL</a>
-                                <a class="js-breadcrumb-category" href="https://%%%%%%%%%%%%%%%%/">TOGEL RESMI</a>
-                                <a class="js-breadcrumb-category" href="https://%%%%%%%%%%%%%%%%/">TOGEL ONLINE</a>
-                                <a class="js-breadcrumb-category" href="https://%%%%%%%%%%%%%%%%/">BOTAK HOKI</a>
+                                <a class="js-breadcrumb-category" href="https://tranquilityrc.co.za/donate/">BOTAKHOKI</a>
+                                <a href="https://tranquilityrc.co.za/donate/" class="js-breadcrumb-category">SITUS TOGEL</a>
+                                <a class="js-breadcrumb-category" href="https://tranquilityrc.co.za/donate/">BANDAR TOGEL</a>
+                                <a class="js-breadcrumb-category" href="https://tranquilityrc.co.za/donate/">LINK TOGEL</a>
+                                <a class="js-breadcrumb-category" href="https://tranquilityrc.co.za/donate/">TOGEL RESMI</a>
+                                <a class="js-breadcrumb-category" href="https://tranquilityrc.co.za/donate/">TOGEL ONLINE</a>
+                                <a class="js-breadcrumb-category" href="https://tranquilityrc.co.za/donate/">BOTAK HOKI</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -3262,7 +3262,7 @@ body {
                                     </div>
 
                                     <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://%%%%%%%%%%%%%%%%/">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://tranquilityrc.co.za/donate/">
                                             <span class="item-header__cart-button-icon">
                                                 <img src="https://imganekuan.com/uploads/njz6eych.png" alt="BOTAKHOKI" width="24" height="24" style="margin-right: 8px;">
                                             </span>
@@ -3276,7 +3276,7 @@ body {
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://%%%%%%%%%%%%%%%%/">BOTAKHOKI</a>
+                                        By <a rel="author" class="js-by-author" href="https://tranquilityrc.co.za/donate/">BOTAKHOKI</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -3306,7 +3306,7 @@ body {
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://%%%%%%%%%%%%%%%%/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://tranquilityrc.co.za/donate/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -3597,22 +3597,22 @@ body {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://%%%%%%%%%%%%%%%%/"><span
+                                                        href="https://tranquilityrc.co.za/donate/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://%%%%%%%%%%%%%%%%/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://tranquilityrc.co.za/donate/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
 </li></ul></div>
                   <div class="button-login-daftar">
-                     <a class="login" href="https://$$$$$$$$$$$$$$$$$$$$$$$$$/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="login" href="https://tranquilityrc-bonus.pages.dev/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          LOGIN
                      </a>
-                     <a class="register" href="https://$$$$$$$$$$$$$$$$$$$$$$$$$/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="register" href="https://tranquilityrc-bonus.pages.dev/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          DAFTAR
                      </a>
                             
@@ -3626,7 +3626,7 @@ body {
 
 
 
-                            <a target="_blank" href="https://%%%%%%%%%%%%%%%%/" rel="noopener noreferrer"><img src="https://imganekuan.com/uploads/7wbg0e7d.png" alt="BOTAKHOKI: Team Keamanan Situs Bandar Togel Online Terbaik 2026" width="575" height="575" srcset="https://imganekuan.com/uploads/7wbg0e7d.png" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
+                            <a target="_blank" href="https://tranquilityrc.co.za/donate/" rel="noopener noreferrer"><img src="https://imganekuan.com/uploads/7wbg0e7d.png" alt="BOTAKHOKI: Team Keamanan Situs Bandar Togel Online Terbaik 2026" width="575" height="575" srcset="https://imganekuan.com/uploads/7wbg0e7d.png" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
                                 <div class="js- item-preview-image__gallery" data-title="BOTAKHOKI: Team Keamanan Situs Bandar Togel Online Terbaik 2026 - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
@@ -3661,10 +3661,10 @@ body {
                             <div class="item-preview__actions" bis_skin_checked="1">
                                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                    <a href="https://$$$$$$$$$$$$$$$$$$$$$$$$$/" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
+                                    <a href="https://tranquilityrc-bonus.pages.dev/" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
                                                     </a>
 
-                                    <a data-view="screenshotGallery" href="https://$$$$$$$$$$$$$$$$$$$$$$$$$/" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
+                                    <a data-view="screenshotGallery" href="https://tranquilityrc-bonus.pages.dev/" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
                                                         DAFTAR
                                     </a>
 
@@ -3679,7 +3679,7 @@ body {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://%%%%%%%%%%%%%%%%/">
+                                <a class="item-description-toggle__link" href="https://tranquilityrc.co.za/donate/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -3709,7 +3709,7 @@ body {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;BOTAKHOKI: Team Keamanan Situs Bandar Togel Online Terbaik 2026&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://%%%%%%%%%%%%%%%%/" accept-charset="UTF-8" method="post">
+                                    action="https://tranquilityrc.co.za/donate/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -3740,7 +3740,7 @@ body {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://%%%%%%%%%%%%%%%%//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://tranquilityrc.co.za/donate//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -3823,7 +3823,7 @@ body {
                                             </p>
                                         </div>
 <p>
-                             <a href="https://%%%%%%%%%%%%%%%%/" target="_blank">
+                             <a href="https://tranquilityrc.co.za/donate/" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://imganekuan.com/uploads/82kj0d6q.webp" width="300" height="100"/>
                              </a>
                            </p>
@@ -4034,14 +4034,14 @@ body {
 
   <!-- ===== ISI ARTIKEL ===== -->
   <div class="rjb-intro">
-    <p><strong><a href="https://%%%%%%%%%%%%%%%%/" target="_blank" rel="noopener noreferrer">BOTAKHOKI</a></strong>
+    <p><strong><a href="https://tranquilityrc.co.za/donate/" target="_blank" rel="noopener noreferrer">BOTAKHOKI</a></strong>
     mengangkat tema Team Keamanan Situs Bandar Togel Online Terbaik 2026 sebagai bagian dari pembahasan mengenai pentingnya perlindungan dan pengelolaan sistem dalam ekosistem digital modern. Keamanan informasi menjadi salah satu aspek fundamental yang perlu diperhatikan dalam pengembangan platform online, terutama yang melibatkan data pengguna dan aktivitas berbasis internet. Melalui pendekatan informatif, BOTAKHOKI menyoroti peran sistem keamanan, pengawasan infrastruktur, serta tata kelola digital yang terstruktur untuk menciptakan lingkungan layanan yang lebih transparan dan bertanggung jawab.</p>
 
-    <p>Dalam perkembangan <a href="https://%%%%%%%%%%%%%%%%/">teknologi</a> saat ini, keberadaan tim keamanan digital memiliki peranan penting dalam mengidentifikasi potensi risiko serta menjaga kestabilan infrastruktur. Pembahasan mengenai situs togel resmi juga berkaitan dengan pentingnya verifikasi identitas layanan, kejelasan kebijakan privasi, dan transparansi informasi. Setiap aspek tersebut perlu ditinjau secara objektif agar pengguna dapat memahami karakteristik sebuah platform berdasarkan informasi yang tersedia, bukan sekadar klaim promosi.</p>
+    <p>Dalam perkembangan <a href="https://tranquilityrc.co.za/donate/">teknologi</a> saat ini, keberadaan tim keamanan digital memiliki peranan penting dalam mengidentifikasi potensi risiko serta menjaga kestabilan infrastruktur. Pembahasan mengenai situs togel resmi juga berkaitan dengan pentingnya verifikasi identitas layanan, kejelasan kebijakan privasi, dan transparansi informasi. Setiap aspek tersebut perlu ditinjau secara objektif agar pengguna dapat memahami karakteristik sebuah platform berdasarkan informasi yang tersedia, bukan sekadar klaim promosi.</p>
 
-    <p>Pengelolaan akses melalui <a href="https://%%%%%%%%%%%%%%%%/">link togel</a> menjadi bagian lain yang perlu mendapat perhatian dalam aspek keamanan digital. Pemeriksaan alamat domain, penggunaan koneksi yang terlindungi, serta kewaspadaan terhadap halaman tiruan merupakan langkah penting untuk mengurangi risiko penyalahgunaan <a href="https://%%%%%%%%%%%%%%%%/">informasi</a>. BOTAKHOKI membahas pentingnya sistem pengawasan dan pemeliharaan teknologi sebagai elemen yang mendukung kualitas navigasi serta kompatibilitas layanan pada berbagai perangkat, termasuk komputer dan ponsel pintar.</p>
+    <p>Pengelolaan akses melalui <a href="https://tranquilityrc.co.za/donate/">link togel</a> menjadi bagian lain yang perlu mendapat perhatian dalam aspek keamanan digital. Pemeriksaan alamat domain, penggunaan koneksi yang terlindungi, serta kewaspadaan terhadap halaman tiruan merupakan langkah penting untuk mengurangi risiko penyalahgunaan <a href="https://tranquilityrc.co.za/donate/">informasi</a>. BOTAKHOKI membahas pentingnya sistem pengawasan dan pemeliharaan teknologi sebagai elemen yang mendukung kualitas navigasi serta kompatibilitas layanan pada berbagai perangkat, termasuk komputer dan ponsel pintar.</p>
 
-    <p>Di sisi lain, pembahasan mengenai bandar <a href="https://%%%%%%%%%%%%%%%%/">togel online</a> juga mencakup prinsip transparansi, pengelolaan informasi, dan kejelasan ketentuan layanan. Keberadaan tim keamanan tidak hanya berkaitan dengan teknologi, tetapi juga dengan prosedur pengawasan dan penanganan potensi gangguan. Pengguna tetap perlu memeriksa kebijakan perlindungan data, status legalitas, serta ketentuan yang berlaku sebelum menggunakan layanan digital tertentu. Klaim mengenai keamanan dan kualitas suatu platform sebaiknya didukung oleh bukti yang dapat diverifikasi.</p>
+    <p>Di sisi lain, pembahasan mengenai bandar <a href="https://tranquilityrc.co.za/donate/">togel online</a> juga mencakup prinsip transparansi, pengelolaan informasi, dan kejelasan ketentuan layanan. Keberadaan tim keamanan tidak hanya berkaitan dengan teknologi, tetapi juga dengan prosedur pengawasan dan penanganan potensi gangguan. Pengguna tetap perlu memeriksa kebijakan perlindungan data, status legalitas, serta ketentuan yang berlaku sebelum menggunakan layanan digital tertentu. Klaim mengenai keamanan dan kualitas suatu platform sebaiknya didukung oleh bukti yang dapat diverifikasi.</p>
   </div>
 
   <!-- ===== KEUNGGULAN ===== -->
@@ -4399,28 +4399,28 @@ body {
 <div class="rb-dock-spacer" aria-hidden="true"></div>
 
 <nav class="rb-dock" aria-label="Menu cepat BOTAKHOKI">
-  <a href="https://$$$$$$$$$$$$$$$$$$$$$$$$$/" rel="nofollow noopener" target="_blank">
+  <a href="https://tranquilityrc-bonus.pages.dev/" rel="nofollow noopener" target="_blank">
     <i class="rb-dock__ico"><img src="https://imgsaya4.io/images/2026/10/29/hadiah.webp" width="22" height="22" alt="PROMO BOTAKHOKI"></i>
     <span>Promo</span>
   </a>
 
-  <a href="https://$$$$$$$$$$$$$$$$$$$$$$$$$/" rel="nofollow noopener" target="_blank">
+  <a href="https://tranquilityrc-bonus.pages.dev/" rel="nofollow noopener" target="_blank">
     <i class="rb-dock__ico"><img src="https://imganekuan.com/uploads/njz6eych.png" width="22" height="22" alt="LOGIN BOTAKHOKI"></i>
     <span>Login</span>
   </a>
 
-  <a href="https://$$$$$$$$$$$$$$$$$$$$$$$$$/" rel="nofollow noopener" target="_blank" class="tada">
+  <a href="https://tranquilityrc-bonus.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
     <i class="rb-dock__ring"></i>
     <i class="rb-dock__ico"><img src="https://imgsaya4.io/images/2026/10/29/daftar.webp" width="30" height="30" alt="DAFTAR BOTAKHOKI"></i>
     <span>Daftar</span>
   </a>
 
-  <a href="https://$$$$$$$$$$$$$$$$$$$$$$$$$/" rel="nofollow noopener" target="_blank">
+  <a href="https://tranquilityrc-bonus.pages.dev/" rel="nofollow noopener" target="_blank">
     <i class="rb-dock__ico"><img src="https://imganekuan.com/uploads/njz6eych.png" width="22" height="22" alt="LINK ALTERNATIF BOTAKHOKI"></i>
     <span>Link</span>
   </a>
 
-  <a href="https://$$$$$$$$$$$$$$$$$$$$$$$$$/" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+  <a href="https://tranquilityrc-bonus.pages.dev/" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
     <i class="rb-dock__ico"><img class="live-chat-icon" src="https://imgsaya4.io/images/2026/10/29/live-chat.webp" width="22" height="22" alt="LIVE CHAT BOTAKHOKI"></i>
     <span>Live Chat</span>
   </a>
@@ -4782,8 +4782,8 @@ body {
         <div class="cilukba-maling">
             <img src="https://imganekuan.com/uploads/7wbg0e7d.png" alt="Popup Banner" class="popup-image" />
             <div class="popup-buttons">
-                <a href="https://$$$$$$$$$$$$$$$$$$$$$$$$$/">LOGIN</a>
-                <a href="https://$$$$$$$$$$$$$$$$$$$$$$$$$/">DAFTAR</a>
+                <a href="https://tranquilityrc-bonus.pages.dev/">LOGIN</a>
+                <a href="https://tranquilityrc-bonus.pages.dev/">DAFTAR</a>
             </div>
             <div class="popup-footer">
                 BOTAKHOKI: Team Keamanan Situs Bandar Togel Online Terbaik 2026<br/>
