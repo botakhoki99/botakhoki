@@ -46,21 +46,21 @@
     <script
         src="https://public-assetss-envato-static.pages.dev/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js"
         nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer="defer"></script>
-    <link rel="canonical" href="https://%%%%%%%%%%%%%%%%%%">
-    <link rel="amphtml" href="https://$$$$$$$$$$$$$$$$$$$$$$$$$$$$/" />
-    <link rel="alternate" hreflang="id-id" href="https://%%%%%%%%%%%%%%%%%%" />
-    <link rel="alternate" href="https://%%%%%%%%%%%%%%%%%%" />
-    <link rel="alternate" hreflang="id" href="https://%%%%%%%%%%%%%%%%%%" />
-    <link rel="alternate" hreflang="x-default" href="https://%%%%%%%%%%%%%%%%%%" />
-    <link rel="alternate" hreflang="en" href="https://%%%%%%%%%%%%%%%%%%" />
-    <link rel="alternate" media="handheld" href="https://%%%%%%%%%%%%%%%%%%" />
+    <link rel="canonical" href="https://pureradio.eu/">
+    <link rel="amphtml" href="https://pure-radio.pages.dev/" />
+    <link rel="alternate" hreflang="id-id" href="https://pureradio.eu/" />
+    <link rel="alternate" href="https://pureradio.eu/" />
+    <link rel="alternate" hreflang="id" href="https://pureradio.eu/" />
+    <link rel="alternate" hreflang="x-default" href="https://pureradio.eu/" />
+    <link rel="alternate" hreflang="en" href="https://pureradio.eu/" />
+    <link rel="alternate" media="handheld" href="https://pureradio.eu/" />
     <meta name="google-site-verification" content="" />
     <meta name="google-site-verification" content="puE3jRKyjDobg61n4UrF1uuE7VwdnQZOrzliixpwTMU" />
     <script type="application/ld+json">
 {
   "@context":"https://schema.org",
   "@type":"Product",
-  "url":"https://%%%%%%%%%%%%%%%%%%",
+  "url":"https://pureradio.eu/",
   "name":"BOTAKHOKI ✦ 101 Cara Memahami Situs Toto Togel 4D & Panduan Digital Terpercaya 2026",
   "sku":"001-TOGEL-GACOR",
   "description":"BOTAKHOKI menyajikan 101 panduan memahami Toto Togel 4D, informasi sistem permainan, istilah digital, serta referensi terbaru 2026 dalam sajian yang praktis dan informatif.",
@@ -87,7 +87,7 @@
     "highPrice":"10.000",
     "priceCurrency":"IDR",
     "availability":"https://schema.org/InStock",
-    "url":"https://%%%%%%%%%%%%%%%%%%"
+    "url":"https://pureradio.eu/"
   },
  "review": [
   {
@@ -202,7 +202,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://%%%%%%%%%%%%%%%%%%"
+      "item": "https://pureradio.eu/"
     }
   ]
 }
@@ -214,27 +214,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://%%%%%%%%%%%%%%%%%%#org",
+      "@id": "https://pureradio.eu/#org",
       "name": "BOTAKHOKI",
-      "url": "https://%%%%%%%%%%%%%%%%%%",
+      "url": "https://pureradio.eu/",
       "logo": "https://imganekuan.com/uploads/352gsuz7.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://%%%%%%%%%%%%%%%%%%#website",
-      "url": "https://%%%%%%%%%%%%%%%%%%",
+      "@id": "https://pureradio.eu/#website",
+      "url": "https://pureradio.eu/",
       "name": "BOTAKHOKI",
-      "publisher": { "@id": "https://%%%%%%%%%%%%%%%%%%#org" },
+      "publisher": { "@id": "https://pureradio.eu/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://%%%%%%%%%%%%%%%%%%?s={search_term_string}",
+        "target": "https://pureradio.eu/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://%%%%%%%%%%%%%%%%%%#app",
+      "@id": "https://pureradio.eu/#app",
       "name": "BOTAKHOKI",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -298,7 +298,7 @@
   "@type": "NewsArticle",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://%%%%%%%%%%%%%%%%%%"
+    "@id": "https://pureradio.eu/"
   },
   "headline": "BOTAKHOKI ✦ 101 Cara Memahami Situs Toto Togel 4D & Panduan Digital Terpercaya 2026",
   "alternativeHeadline": "BOTAKHOKI ✦ 101 Cara Memahami Situs Toto Togel 4D & Panduan Digital Terpercaya 2026",
@@ -309,13 +309,13 @@
   "dateModified": "2026-07-01T15:17:00+07:00",
   "author": {
     "@type": "Person",
-    "@id": "https://%%%%%%%%%%%%%%%%%%#author",
+    "@id": "https://pureradio.eu/#author",
     "name": "BOTAKHOKI",
-    "url": "https://%%%%%%%%%%%%%%%%%%"
+    "url": "https://pureradio.eu/"
   },
   "publisher": {
     "@type": "Organization",
-    "@id": "https://%%%%%%%%%%%%%%%%%%#organization",
+    "@id": "https://pureradio.eu/#organization",
     "name": "BOTAKHOKI",
     "logo": {
       "@type": "ImageObject",
@@ -366,7 +366,7 @@
     <meta property="og:description"
         content="BOTAKHOKI menyajikan 101 panduan memahami Toto Togel 4D, informasi sistem permainan, istilah digital, serta referensi terbaru 2026 dalam sajian yang praktis dan informatif.">
     <meta property="og:image" content="https://imganekuan.com/uploads/352gsuz7.png">
-    <meta property="og:url" content="https://%%%%%%%%%%%%%%%%%%">
+    <meta property="og:url" content="https://pureradio.eu/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
@@ -379,7 +379,7 @@
     <meta property="og:title"
         content="BOTAKHOKI ✦ 101 Cara Memahami Situs Toto Togel 4D & Panduan Digital Terpercaya 2026">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://%%%%%%%%%%%%%%%%%%">
+    <meta property="og:url" content="https://pureradio.eu/">
     <meta property="og:image" content="https://imganekuan.com/uploads/352gsuz7.png" />
     <meta property="og:description"
         content="BOTAKHOKI menyajikan 101 panduan memahami Toto Togel 4D, informasi sistem permainan, istilah digital, serta referensi terbaru 2026 dalam sajian yang praktis dan informatif.">
@@ -828,42 +828,42 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://%%%%%%%%%%%%%%%%%%">Envato Market</a>
+                    <a href="https://pureradio.eu/">Envato Market</a>
                 </div>
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
                     <span class="off-canvas-left__site-title">
                         Web Themes &amp; Templates
                     </span>
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
-                        data-dropdown-target=".off-canvas-left__sites" href="https://%%%%%%%%%%%%%%%%%%"></a>
+                        data-dropdown-target=".off-canvas-left__sites" href="https://pureradio.eu/"></a>
                 </div>
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://%%%%%%%%%%%%%%%%%%">
+                    <a class="off-canvas-left__site" href="https://pureradio.eu/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://%%%%%%%%%%%%%%%%%%">
+                    </a> <a class="off-canvas-left__site" href="https://pureradio.eu/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://%%%%%%%%%%%%%%%%%%">
+                    </a> <a class="off-canvas-left__site" href="https://pureradio.eu/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://%%%%%%%%%%%%%%%%%%">
+                    </a> <a class="off-canvas-left__site" href="https://pureradio.eu/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://%%%%%%%%%%%%%%%%%%">
+                    </a> <a class="off-canvas-left__site" href="https://pureradio.eu/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://%%%%%%%%%%%%%%%%%%">
+                    </a> <a class="off-canvas-left__site" href="https://pureradio.eu/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -871,7 +871,7 @@
                     </a>
                 </div>
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://%%%%%%%%%%%%%%%%%%" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://pureradio.eu/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search"
@@ -886,42 +886,42 @@
                 <ul>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-all-items" href="https://%%%%%%%%%%%%%%%%%%">
+                            data-dropdown-target="#off-canvas-all-items" href="https://pureradio.eu/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">https://%%%%%%%%%%%%%%%%%%</a>
+                                    href="https://pureradio.eu/">https://pureradio.eu/</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Featured
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Featured
                                     Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Top
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Top
                                     New
                                     Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Follow
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Follow
                                     Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Top
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Top
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Top
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Top
                                     New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Public
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Public
                                     Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">View
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">View
                                     All
                                     Categories</a>
                             </li>
@@ -930,83 +930,83 @@
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-wordpress" href="https://%%%%%%%%%%%%%%%%%%">
+                            data-dropdown-target="#off-canvas-wordpress" href="https://pureradio.eu/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Show
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Show
                                     all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Popular
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Blog
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Blog
                                     /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">BuddyPress</a>
+                                    href="https://pureradio.eu/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Corporate</a>
+                                    href="https://pureradio.eu/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Directory
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Directory
                                     &amp;
                                     Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">eCommerce</a>
+                                    href="https://pureradio.eu/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Education</a>
+                                    href="https://pureradio.eu/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Elementor</a>
+                                    href="https://pureradio.eu/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Entertainment</a>
+                                    href="https://pureradio.eu/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Nonprofit</a>
+                                    href="https://pureradio.eu/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Real
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Technology</a>
+                                    href="https://pureradio.eu/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Miscellaneous</a>
+                                    href="https://pureradio.eu/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">WordPress
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">WordPress
                                     Plugins</a>
                             </li>
                         </ul>
@@ -1014,161 +1014,161 @@
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-elementor" href="https://%%%%%%%%%%%%%%%%%%">
+                            data-dropdown-target="#off-canvas-elementor" href="https://pureradio.eu/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Template
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Template
                                     Kits</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://%%%%%%%%%%%%%%%%%%">
+                        <a class="off-canvas-category-link--empty" href="https://pureradio.eu/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://%%%%%%%%%%%%%%%%%%">
+                            href="https://pureradio.eu/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Show
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Show
                                     all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Popular
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Admin
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Admin
                                     Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Corporate</a>
+                                    href="https://pureradio.eu/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Creative</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Entertainment</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Nonprofit</a>
+                                    href="https://pureradio.eu/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Retail</a>
+                                <a class="off-canvas-category-link--sub"
+                                    href="https://pureradio.eu/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Specialty
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Personal</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Retail</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Specialty
                                     Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Technology</a>
+                                    href="https://pureradio.eu/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Miscellaneous</a>
+                                    href="https://pureradio.eu/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-shopify" href="https://%%%%%%%%%%%%%%%%%%">
+                            data-dropdown-target="#off-canvas-shopify" href="https://pureradio.eu/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Show
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Show
                                     all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Popular
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Health
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Health
                                     &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Technology</a>
+                                    href="https://pureradio.eu/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Entertainment</a>
+                                    href="https://pureradio.eu/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Miscellaneous</a>
+                                    href="https://pureradio.eu/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://%%%%%%%%%%%%%%%%%%">
+                        <a class="off-canvas-category-link--empty" href="https://pureradio.eu/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-marketing" href="https://%%%%%%%%%%%%%%%%%%">
+                            data-dropdown-target="#off-canvas-marketing" href="https://pureradio.eu/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Show
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Show
                                     all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Popular
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Email
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Email
                                     Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Landing
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Landing
                                     Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Unbounce
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Unbounce
                                     Landing Pages</a>
                             </li>
                         </ul>
@@ -1176,191 +1176,191 @@
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://%%%%%%%%%%%%%%%%%%">
+                            href="https://pureradio.eu/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Show
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Show
                                     all
                                     CMS</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Popular
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Concrete5</a>
+                                    href="https://pureradio.eu/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">HubSpot
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">HubSpot
                                     CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">MODX
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Miscellaneous</a>
+                                    href="https://pureradio.eu/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-ecommerce" href="https://%%%%%%%%%%%%%%%%%%">
+                            data-dropdown-target="#off-canvas-ecommerce" href="https://pureradio.eu/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Show
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Show
                                     all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Popular
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">WooCommerce</a>
+                                    href="https://pureradio.eu/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">BigCommerce</a>
+                                    href="https://pureradio.eu/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Drupal
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Drupal
                                     Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Easy
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Easy
                                     Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">OpenCart</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">PrestaShop</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Shopify</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">VirtueMart</a>
+                                    href="https://pureradio.eu/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Zen
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Shopify</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Ubercart</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub"
+                                    href="https://pureradio.eu/">VirtueMart</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Miscellaneous</a>
+                                    href="https://pureradio.eu/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-ui-templates" href="https://%%%%%%%%%%%%%%%%%%">
+                            data-dropdown-target="#off-canvas-ui-templates" href="https://pureradio.eu/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Popular
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Photoshop</a>
+                                    href="https://pureradio.eu/">Photoshop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://%%%%%%%%%%%%%%%%%%">
+                        <a class="off-canvas-category-link--empty" href="https://pureradio.eu/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://%%%%%%%%%%%%%%%%%%">
+                            href="https://pureradio.eu/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Facebook
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Facebook
                                     Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Free
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Free
                                     Elementor Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Free
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://%%%%%%%%%%%%%%%%%%">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://pureradio.eu/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://%%%%%%%%%%%%%%%%%%">Unlimited
+                                    href="https://pureradio.eu/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1371,7 +1371,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://%%%%%%%%%%%%%%%%%%">Unlimited
+                            href="https://pureradio.eu/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1383,18 +1383,18 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://%%%%%%%%%%%%%%%%%%">
+                <a class="off-canvas-right__link--cart" href="https://pureradio.eu/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$$$$$$/">
+                <a class="off-canvas-right__link" href="https://pure-radio.pages.dev/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$$$$$$/">
+                <a class="off-canvas-right__link" href="https://pure-radio.pages.dev/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1410,7 +1410,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://%%%%%%%%%%%%%%%%%%">
+                                    <a class="btn btn--square" href="https://pureradio.eu/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1430,7 +1430,7 @@
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://$$$$$$$$$$$$$$$$$$$$$$$$$$$$/">
+                                        href="https://pure-radio.pages.dev/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1438,14 +1438,14 @@
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://$$$$$$$$$$$$$$$$$$$$$$$$$$$$/">
+                                        href="https://pure-radio.pages.dev/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://%%%%%%%%%%%%%%%%%%">
+                                    <a href="https://pureradio.eu/">
                                         <img alt="BOTAKHOKI"
                                             src="https://imganekuan.com/uploads/82kj0d6q.webp"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -1462,21 +1462,21 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://%%%%%%%%%%%%%%%%%%">
+                                    <a href="https://pureradio.eu/">
                                         <img height="50" alt="BOTAKHOKI" class="global-header__logo"
                                             src="https://imganekuan.com/uploads/82kj0d6q.webp">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://%%%%%%%%%%%%%%%%%%">
+                                                <a class="global-header-menu__link" href="https://pureradio.eu/">
                                                     <span class="global-header-menu__link-text">
                                                         Bandar Togel
                                                     </span>
                                                 </a>
                                             </li>
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://%%%%%%%%%%%%%%%%%%">
+                                                <a class="global-header-menu__link" href="https://pureradio.eu/">
                                                     <span class="global-header-menu__link-text">
                                                         Situs Togel
                                                     </span>
@@ -1487,7 +1487,7 @@
                                             <li data-view="globalHeaderMenuDropdownHandler"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="https://%%%%%%%%%%%%%%%%%%">
+                                                    href="https://pureradio.eu/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
@@ -1505,7 +1505,7 @@
                                                 </a>
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                                    href="https://%%%%%%%%%%%%%%%%%%">
+                                                    href="https://pureradio.eu/">
 
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon global-header-menu__icon-cart"
@@ -1527,7 +1527,7 @@
 
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="https://$$$$$$$$$$$$$$$$$$$$$$$$$$$$/">
+                                                    href="https://pure-radio.pages.dev/">
                                                     <span id="spec-user-username" class="global-header-menu__link-text">
                                                         Sign In
                                                     </span>
@@ -1547,31 +1547,31 @@
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="https://%%%%%%%%%%%%%%%%%%">CARA BERMAIN BOTAKHOKI</a>
+                                                href="https://pureradio.eu/">CARA BERMAIN BOTAKHOKI</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Code"
-                                                href="https://%%%%%%%%%%%%%%%%%%">BOTAKHOKI LOGIN</a>
+                                                href="https://pureradio.eu/">BOTAKHOKI LOGIN</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Video"
-                                                href="https://%%%%%%%%%%%%%%%%%%">BOTAKHOKI ALTERANTIF</a>
+                                                href="https://pureradio.eu/">BOTAKHOKI ALTERANTIF</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Music"
-                                                href="https://%%%%%%%%%%%%%%%%%%">BOTAKHOKI DAFTAR</a>
+                                                href="https://pureradio.eu/">BOTAKHOKI DAFTAR</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="https://%%%%%%%%%%%%%%%%%%">BOTAKHOKI RESMI</a>
+                                                href="https://pureradio.eu/">BOTAKHOKI RESMI</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Photos"
-                                                href="https://%%%%%%%%%%%%%%%%%%">SITUS BOTAKHOKI</a>
+                                                href="https://pureradio.eu/">SITUS BOTAKHOKI</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="3D Files"
-                                                href="https://%%%%%%%%%%%%%%%%%%">BOTAK HOKI</a>
+                                                href="https://pureradio.eu/">BOTAK HOKI</a>
                                         </div>
 
                                         <div class="header-site-titles__site elements-nav__container"
@@ -1649,40 +1649,40 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="https://%%%%%%%%%%%%%%%%%%">SITUS TOGEL</a>
+                                                href="https://pureradio.eu/">SITUS TOGEL</a>
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="https://%%%%%%%%%%%%%%%%%%">TOGEL 4D</a>
+                                                href="https://pureradio.eu/">TOGEL 4D</a>
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-2-dropdown"
-                                                href="https://%%%%%%%%%%%%%%%%%%">TOGEL TERPERCAYA</a>
+                                                href="https://pureradio.eu/">TOGEL TERPERCAYA</a>
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://%%%%%%%%%%%%%%%%%%">BOTAK HOKI</a>
+                                                href="https://pureradio.eu/">BOTAK HOKI</a>
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-4-dropdown"
-                                                href="https://%%%%%%%%%%%%%%%%%%">BOTAKHOKI</a>
+                                                href="https://pureradio.eu/">BOTAKHOKI</a>
                                             </a>
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-5-dropdown"
-                                                href="https://%%%%%%%%%%%%%%%%%%">TOTO 4D</a>
+                                                href="https://pureradio.eu/">TOTO 4D</a>
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://%%%%%%%%%%%%%%%%%%">TOTO</a>
+                                                href="https://pureradio.eu/">TOTO</a>
                                         </li>
                                     </ul>
                                     <div class="header-categories__search" bis_skin_checked="1">
-                                        <form id="search" data-view="searchField" action="https://%%%%%%%%%%%%%%%%%%"
+                                        <form id="search" data-view="searchField" action="https://pureradio.eu/"
                                             accept-charset="UTF-8" method="get">
                                             <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                 <div class="search-field__input" bis_skin_checked="1">
@@ -1731,7 +1731,7 @@
                                     </div>
 
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
-                                        <a href="https://%%%%%%%%%%%%%%%%%%" title="BOTAKHOKI" class="logo-link">
+                                        <a href="https://pureradio.eu/" title="BOTAKHOKI" class="logo-link">
                                             <img src="https://imganekuan.com/uploads/352gsuz7.png"
                                                 alt="BOTAKHOKI" class="logo-img">
                                         </a>
@@ -1847,7 +1847,7 @@
                                 </div>
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://%%%%%%%%%%%%%%%%%%">Prediksi
+                                        By <a rel="author" class="js-by-author" href="https://pureradio.eu/">Prediksi
                                             Togel</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
@@ -1888,11 +1888,11 @@
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://%%%%%%%%%%%%%%%%%%">Item
+                                            href="https://pureradio.eu/">Item
                                             Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://%%%%%%%%%%%%%%%%%%"><span>Reviews</span><span>
+                                            href="https://pureradio.eu/"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -1912,10 +1912,10 @@
                                                 </div>
                                             </span><span class="item-navigation-reviews-comments">303</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="https://%%%%%%%%%%%%%%%%%%"><span>Comments</span><span
+                                            href="https://pureradio.eu/"><span>Comments</span><span
                                                 class="item-navigation-reviews-comments">9,999</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://%%%%%%%%%%%%%%%%%%">Support</a>
+                                            href="https://pureradio.eu/">Support</a>
                                     </li>
                                 </ul>
 
@@ -1988,14 +1988,14 @@
                         <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
                             <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                 data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                    href="https://%%%%%%%%%%%%%%%%%%"><span
+                                    href="https://pureradio.eu/"><span
                                         class="item-bookmarking__control--label">Add
                                         to
                                         Favorites</span></a>
                             </li>
                             <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                 data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                    href="https://%%%%%%%%%%%%%%%%%%"><span
+                                    href="https://pureradio.eu/"><span
                                         class="item-bookmarking__control--label">Add
                                         to
                                         Collection</span></a>
@@ -2071,7 +2071,7 @@
                                     <li class="item-bookmarking__control_icons--favorite">
                                         <span>
                                             <a title="Add to Favorites" data-view="modalAjax"
-                                                href="https://%%%%%%%%%%%%%%%%%%"><span
+                                                href="https://pureradio.eu/"><span
                                                     class="item-bookmarking__control--label">Add to
                                                     Favorites</span></a>
                                         </span>
@@ -2080,7 +2080,7 @@
                                     <li class="item-bookmarking__control_icons--collection">
                                         <span>
                                             <a title="Add to Collection" data-view="modalAjax"
-                                                href="https://%%%%%%%%%%%%%%%%%%">
+                                                href="https://pureradio.eu/">
                                                 <span class="item-bookmarking__control--label">Add to
                                                     Collection</span>
                                             </a> </span>
@@ -2184,7 +2184,7 @@
                                     </style>
 
                                     <!-- ✅ HTML UTAMA GAMBAR PROMO 3D -->
-                                    <a target="_blank" href="https://%%%%%%%%%%%%%%%%%%" class="promo-frame"
+                                    <a target="_blank" href="https://pureradio.eu/" class="promo-frame"
                                         title="Klik untuk membuka link alternatif BOTAKHOKI">
                                         <img alt="BOTAKHOKI ✦ 101 Cara Memahami Situs Toto Togel 4D & Panduan Digital Terpercaya 2026"
                                             width="300" height="300"
@@ -2276,9 +2276,9 @@
 
                                             <!-- CTA buttons -->
                                             <div class="cta-buttons">
-                                                <a href="https://$$$$$$$$$$$$$$$$$$$$$$$$$$$$/" rel="nofollow noreferrer"
+                                                <a href="https://pure-radio.pages.dev/" rel="nofollow noreferrer"
                                                     class="btn-cta btn-login" title="Masuk akun">LOGIN</a>
-                                                <a href="https://$$$$$$$$$$$$$$$$$$$$$$$$$$$$/" rel="nofollow noreferrer"
+                                                <a href="https://pure-radio.pages.dev/" rel="nofollow noreferrer"
                                                     class="btn-cta btn-register" title="Daftar sekarang">DAFTAR</a>
                                             </div>
                                         </div>
@@ -2730,7 +2730,7 @@
                                     </style>
                                     <!-- Logo Link (tengah) -->
                                     <div class="logo-link">
-                                        <a href="https://%%%%%%%%%%%%%%%%%%" target="_blank" rel="noopener">
+                                        <a href="https://pureradio.eu/" target="_blank" rel="noopener">
                                             <img src="https://imganekuan.com/uploads/82kj0d6q.webp"
                                                 alt="BOTAKHOKI" loading="lazy" decoding="async" />
                                         </a>
@@ -2964,8 +2964,8 @@
                             <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                                 <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                    <a class="item-description-toggle__link" href="https://%%%%%%%%%%%%%%%%%%">
-                                        <span>https://%%%%%%%%%%%%%%%%%%<i
+                                    <a class="item-description-toggle__link" href="https://pureradio.eu/">
+                                        <span>https://pureradio.eu/<i
                                                 class="e-icon -icon-chevron-down"></i></span>
                                         <span class="item-description-toggle__less">Show Less <i
                                                 class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -3008,7 +3008,7 @@
                                 <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                     <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                         data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;BOTAKHOKI ✦ 101 Cara Memahami Situs Toto Togel 4D & Panduan Digital Terpercaya 2026&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                        action="https://%%%%%%%%%%%%%%%%%%" accept-charset="UTF-8" method="post">
+                                        action="https://pureradio.eu/" accept-charset="UTF-8" method="post">
                                         <input type="hidden" name="authenticity_token"
                                             value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
                                             autocomplete="off">
@@ -3064,7 +3064,7 @@
                                                                     <p class="t-body -size-m h-m0">
                                                                         <a class="t-link -decoration-reversed"
                                                                             target="_blank"
-                                                                            href="https://%%%%%%%%%%%%%%%%%%/licenses/standard">View
+                                                                            href="https://pureradio.eu//licenses/standard">View
                                                                             license details</a>
                                                                     </p>
                                                                 </div>
@@ -3180,7 +3180,7 @@
                         <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1">
                             All Rights Reserved
                             <br>
-                            <a href="https://%%%%%%%%%%%%%%%%%%">BOTAKHOKI</a>
+                            <a href="https://pureradio.eu/">BOTAKHOKI</a>
                         </div>
 
                     </div>
@@ -3834,11 +3834,11 @@ Didukung oleh infrastruktur teknologi modern, sistem transaksi kilat 24 jam, ser
                                         </li>
                                         <li class="global-footer-sublist__item h-p0">
                                             <a class="global-footer__text-link"
-                                                href="https://%%%%%%%%%%%%%%%%%%hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
+                                                href="https://pureradio.eu/hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
                                         </li>
                                         <li class="global-footer-sublist__item h-p0">
                                             <a class="global-footer__text-link"
-                                                href="https://%%%%%%%%%%%%%%%%%%/licenses">Licenses</a>
+                                                href="https://pureradio.eu//licenses">Licenses</a>
                                         </li>
                                         <li class="global-footer-sublist__item h-p0">
                                             <a class="global-footer__text-link" href="https://build.envato.com">Market
@@ -3865,7 +3865,7 @@ Didukung oleh infrastruktur teknologi modern, sistem transaksi kilat 24 jam, ser
                                             Help
                                         </li>
                                         <li class="global-footer-sublist__item h-p0">
-                                            <a class="global-footer__text-link" href="https://%%%%%%%%%%%%%%%%%%">Help
+                                            <a class="global-footer__text-link" href="https://pureradio.eu/">Help
                                                 Center</a>
                                         </li>
                                         <li class="global-footer-sublist__item h-p0">
@@ -3888,7 +3888,7 @@ Didukung oleh infrastruktur teknologi modern, sistem transaksi kilat 24 jam, ser
                                         </li>
                                         <li class="global-footer-sublist__item h-p0">
                                             <a class="global-footer__text-link"
-                                                href="https://%%%%%%%%%%%%%%%%%%">Forums</a>
+                                                href="https://pureradio.eu/">Forums</a>
                                         </li>
                                         <li class="global-footer-sublist__item h-p0">
                                             <a class="global-footer__text-link"
@@ -3902,7 +3902,7 @@ Didukung oleh infrastruktur teknologi modern, sistem transaksi kilat 24 jam, ser
                                             Meet Envato
                                         </li>
                                         <li class="global-footer-sublist__item h-p0">
-                                            <a class="global-footer__text-link" href="https://%%%%%%%%%%%%%%%%%%">About
+                                            <a class="global-footer__text-link" href="https://pureradio.eu/">About
                                                 Us</a>
                                         </li>
                                         <li class="global-footer-sublist__item h-p0">
@@ -3914,7 +3914,7 @@ Didukung oleh infrastruktur teknologi modern, sistem transaksi kilat 24 jam, ser
                                                 href="https://npasyria.com/privacy/">Privacy Policy</a>
                                         </li>
                                         <li class="global-footer-sublist__item h-p0">
-                                            <a class="global-footer__text-link" href="https://%%%%%%%%%%%%%%%%%%">Amp
+                                            <a class="global-footer__text-link" href="https://pureradio.eu/">Amp
                                                 Version</a>
                                         </li>
                                         <li class="global-footer-sublist__item h-p0">
@@ -4143,7 +4143,7 @@ Didukung oleh infrastruktur teknologi modern, sistem transaksi kilat 24 jam, ser
         </div>
     </div>
     <div id="js-customer-satisfaction-popup" class="survey-popup is-visually-hidden" bis_skin_checked="1">
-        <div class="h-text-align-right" bis_skin_checked="1"><a href="https://%%%%%%%%%%%%%%%%%%"
+        <div class="h-text-align-right" bis_skin_checked="1"><a href="https://pureradio.eu/"
                 id="js-popup-close-button" class="e-alert-box__dismiss-icon"><i class="e-icon -icon-cancel"></i></a>
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
@@ -4151,7 +4151,7 @@ Didukung oleh infrastruktur teknologi modern, sistem transaksi kilat 24 jam, ser
             <p>We'd like to ask you a few questions to help improve ThemeForest.</p>
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
-            <a href="https://%%%%%%%%%%%%%%%%%%" id="js-show-survey-button"
+            <a href="https://pureradio.eu/" id="js-show-survey-button"
                 class="e-btn -color-primary -size-m -width-full js-survey-popup--show-survey-button">Sure, take me to
                 the survey</a>
         </div>
@@ -4383,7 +4383,7 @@ Didukung oleh infrastruktur teknologi modern, sistem transaksi kilat 24 jam, ser
     </script>
 
     <center>
-        <p>@Copyright 2026 <a href="https://%%%%%%%%%%%%%%%%%%" style=" color: #db8300;">BOTAKHOKI</a></p>
+        <p>@Copyright 2026 <a href="https://pureradio.eu/" style=" color: #db8300;">BOTAKHOKI</a></p>
     </center>
     </div>
     </section>
